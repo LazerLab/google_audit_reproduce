@@ -1,0 +1,791 @@
+"qry","qry_clean","Twitter","governor","congress","candidate","state","district","party","chamber","date_started_position","full_term","Notes","relevance_score","in_data"
+"Dan Sullivan","Dan Sullivan","SenDanSullivan",FALSE,TRUE,FALSE,"AK",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Lisa Murkowski","Lisa Murkowski","LisaForSenate",FALSE,TRUE,FALSE,"AK",NA,"Republican","Sen","20-Dec-02",1,NA,6,1
+"Lisa Murkowski","Lisa Murkowski","lisamurkowski",FALSE,TRUE,FALSE,"AK",NA,"Republican","Sen","20-Dec-02",1,NA,6,1
+"Doug Jones","Doug Jones","DougJones",FALSE,TRUE,FALSE,"AL",NA,"Democrat","Sen","3-Jan-18",1,NA,6,1
+"Doug Jones","Doug Jones","sendougjones",FALSE,TRUE,FALSE,"AL",NA,"Democrat","Sen","3-Jan-18",1,NA,6,1
+"Richard Shelby","Richard Shelby","SenShelby",FALSE,TRUE,FALSE,"AL",NA,"Republican","Sen","3-Jan-87",1,NA,6,1
+"John Boozman","John Boozman","JohnBoozman",FALSE,TRUE,FALSE,"AR",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Tom Cotton","Tom Cotton","SenTomCotton",FALSE,TRUE,FALSE,"AR",NA,"Republican","Sen","3-Jan-15",1,"AR-4 in 2013-2015",6,1
+"Tom Cotton","Tom Cotton","TomCottonAR",FALSE,TRUE,FALSE,"AR",NA,"Republican","Sen","3-Jan-15",1,"AR-4 in 2013-2015",6,1
+"Kyrsten Sinema","Kyrsten Sinema","krystensinema",FALSE,TRUE,FALSE,"AZ",NA,"Democrat","Sen","3-Jan-19",1,"AZ-9 from 2013-2019, Democrat at the time, then independent",6,1
+"Kyrsten Sinema","Kyrsten Sinema","SenatorSinema",FALSE,TRUE,FALSE,"AZ",NA,"Democrat","Sen","3-Jan-19",1,NA,6,1
+"Mark Kelly","Mark Kelly","SenMarkKelly",FALSE,TRUE,FALSE,"AZ",NA,"Democrat","Sen","2-Dec-20",0,"From 12/22020",NA,0
+"Martha McSally","Martha McSally","SenMcSallyAZ",FALSE,TRUE,FALSE,"AZ",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Dianne Feinstein","Dianne Feinstein","SenFeinstein",FALSE,TRUE,FALSE,"CA",NA,"Democrat","Sen","4-Nov-92",1,NA,6,1
+"Kamala Harris","Kamala Harris","KamalaHarris",FALSE,TRUE,TRUE,"CA",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Kamala Harris","Kamala Harris","SenKamalaHarris",FALSE,TRUE,TRUE,"CA",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Cory Gardner","Cory Gardner","corygardner",FALSE,TRUE,FALSE,"CO",NA,"Republican","Sen","3-Jan-15",1,NA,5,1
+"Cory Gardner","Cory Gardner","SenCoryGardner",FALSE,TRUE,FALSE,"CO",NA,"Republican","Sen","3-Jan-15",1,NA,5,1
+"Michael Bennet","Michael Bennet","MichaelBennet",FALSE,TRUE,TRUE,"CO",NA,"Democrat","Sen","21-Jan-09",1,NA,6,1
+"Michael Bennet","Michael Bennet","SenatorBennet",FALSE,TRUE,TRUE,"CO",NA,"Democrat","Sen","21-Jan-09",1,NA,6,1
+"Chris Murphy","Chris Murphy","ChrisMurphyCT",FALSE,TRUE,FALSE,"CT",NA,"Democrat","Sen","3-Jan-13",1,"CT-5 from 2007-2013",5,1
+"Chris Murphy","Chris Murphy","senmurphyoffice",FALSE,TRUE,FALSE,"CT",NA,"Democrat","Sen","3-Jan-13",1,NA,5,1
+"Richard Blumenthal","Richard Blumenthal","SenBlumenthal",FALSE,TRUE,FALSE,"CT",NA,"Democrat","Sen","3-Jan-11",1,NA,6,1
+"Chris Coons","Chris Coons","ChrisCoons",FALSE,TRUE,FALSE,"DE",NA,"Democrat","Sen","15-Nov-10",1,NA,6,1
+"Tom Carper","Tom Carper","SenatorCarper",FALSE,TRUE,FALSE,"DE",NA,"Democrat","Sen","3-Jan-01",1,NA,4,1
+"Tom Carper","Tom Carper","TomCarperforDe",FALSE,TRUE,FALSE,"DE",NA,"Democrat","Sen","3-Jan-01",1,NA,4,1
+"Marco Rubio","Marco Rubio","marcorubio",FALSE,TRUE,FALSE,"FL",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Marco Rubio","Marco Rubio","SenRubioPress",FALSE,TRUE,FALSE,"FL",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Rick Scott","Rick Scott","SenRickScott",FALSE,TRUE,FALSE,"FL",NA,"Republican","Sen","8-Jan-19",1,NA,6,1
+"David Perdue","David Perdue","sendavidperdue",FALSE,TRUE,FALSE,"GA",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"David Perdue","David Perdue","perduesenate",FALSE,TRUE,FALSE,"GA",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Johnny Isakson","Johnny Isakson","SenatorIsakson",FALSE,TRUE,FALSE,"GA",NA,"Republican","Sen","3-Jan-05",1,"GA-6 from 1999-2005",5,1
+"Kelly Loeffler","Kelly Loeffler","senatorloeffler",FALSE,TRUE,FALSE,"GA",NA,"Republican","Sen","6-Jan-20",0,"from 1/6/2020",NA,0
+"Kelly Loeffler","Kelly Loeffler","kloeffler",FALSE,TRUE,FALSE,"GA",NA,"Republican","Sen","7-Jan-20",0,"from 1/6/2021",NA,0
+"Brian Schatz","Brian Schatz","brianschatz",FALSE,TRUE,FALSE,"HI",NA,"Democrat","Sen","26-Dec-12",1,NA,6,1
+"Brian Schatz","Brian Schatz","SenBrianSchatz",FALSE,TRUE,FALSE,"HI",NA,"Democrat","Sen","26-Dec-12",1,NA,6,1
+"Mazie Hirono","Mazie Hirono","MazieHirono",FALSE,TRUE,FALSE,"HI",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Chuck Grassley","Chuck Grassley","ChuckGrassley",FALSE,TRUE,FALSE,"IA",NA,"Republican","Sen","3-Jan-19",1,"IA-3 1975-1981",6,1
+"Joni Ernst","Joni Ernst","joniernst",FALSE,TRUE,FALSE,"IA",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Joni Ernst","Joni Ernst","SenJoniErnst",FALSE,TRUE,FALSE,"IA",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Jim Risch","Jim Risch","SenatorRisch",FALSE,TRUE,FALSE,"ID",NA,"Republican","Sen","3-Jan-09",1,NA,6,1
+"Mike Crapo","Mike Crapo","MikeCrapo",FALSE,TRUE,FALSE,"ID",NA,"Republican","Sen","3-Jan-99",1,"ID-2 from 1993-1999",5,1
+"Dick Durbin","Dick Durbin","SenatorDurbin",FALSE,TRUE,FALSE,"IL",NA,"Democrat","Sen","3-Jan-15",1,NA,6,1
+"Dick Durbin","Dick Durbin","DickDurbin",FALSE,TRUE,FALSE,"IL",NA,"Democrat","Sen","3-Jan-15",1,NA,6,1
+"Tammy Duckworth","Tammy Duckworth","SenDuckworth",FALSE,TRUE,FALSE,"IL",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Mike Braun","Mike Braun","SenatorBraun",FALSE,TRUE,FALSE,"IN",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Todd Young","Todd Young","SenToddYoung",FALSE,TRUE,FALSE,"IN",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Todd Young","Todd Young","ToddYoungIN",FALSE,TRUE,FALSE,"IN",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Jerry Moran","Jerry Moran","JerryMoran",FALSE,TRUE,FALSE,"KS",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Pat Roberts","Pat Roberts","SenPatRoberts",FALSE,TRUE,FALSE,"KS",NA,"Republican","Sen","3-Jan-97",1,NA,6,1
+"Mitch McConnell","Mitch McConnell","LeaderMcConnell",FALSE,TRUE,FALSE,"KY",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Mitch McConnell","Mitch McConnell","McConnellPress",FALSE,TRUE,FALSE,"KY",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Mitch McConnell","Mitch McConnell","senatemajldr",FALSE,TRUE,FALSE,"KY",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Mitch McConnell","Mitch McConnell","Team_Mitch",FALSE,TRUE,FALSE,"KY",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Rand Paul","Rand Paul","RandPaul",FALSE,TRUE,FALSE,"KY",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Bill Cassidy","Bill Cassidy","BillCassidy",FALSE,TRUE,FALSE,"LA",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Bill Cassidy","Bill Cassidy","SenBillCassidy",FALSE,TRUE,FALSE,"LA",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"John Kennedy","John Kennedy","SenJohnKennedy",FALSE,TRUE,FALSE,"LA",NA,"Republican","Sen","3-Jan-17",1,NA,3,1
+"Ed Markey","Ed Markey","SenMarkey",FALSE,TRUE,FALSE,"MA",NA,"Democrat","Sen","16-Jul-13",1,NA,6,1
+"Ed Markey","Ed Markey","EdMarkey",FALSE,TRUE,FALSE,"MA",NA,"Democrat","Sen","16-Jul-13",1,NA,6,1
+"Elizabeth Warren","Elizabeth Warren","ewarren",FALSE,TRUE,TRUE,"MA",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Elizabeth Warren","Elizabeth Warren","SenWarren",FALSE,TRUE,TRUE,"MA",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Ben Cardin","Ben Cardin","SenatorCardin",FALSE,TRUE,FALSE,"MD",NA,"Democrat","Sen","3-Jan-07",1,"MD-3 from 1987-2007",6,1
+"Chris Van Hollen","Chris Van Hollen","ChrisVanHollen",FALSE,TRUE,FALSE,"MD",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Angus King","Angus King","SenAngusKing",FALSE,TRUE,FALSE,"ME",NA,"Independent","Sen","3-Jan-13",1,NA,5,1
+"Susan Collins","Susan Collins","SenatorCollins",FALSE,TRUE,FALSE,"ME",NA,"Republican","Sen","3-Jan-97",1,NA,5,1
+"Debbie Stabenow","Debbie Stabenow","SenStabenow",FALSE,TRUE,FALSE,"MI",NA,"Democrat","Sen","3-Jan-01",1,NA,6,1
+"Debbie Stabenow","Debbie Stabenow","stabenow",FALSE,TRUE,FALSE,"MI",NA,"Democrat","Sen","3-Jan-01",1,NA,6,1
+"Gary Peters","Gary Peters","GaryPeters",FALSE,TRUE,FALSE,"MI",NA,"Democrat","Sen","3-Jan-19",1,"MI-14 from 2009-2015",6,1
+"Gary Peters","Gary Peters","SenGaryPeters",FALSE,TRUE,FALSE,"MI",NA,"Democrat","Sen","3-Jan-19",1,"MI-14 from 2009-2015",6,1
+"Amy Klobuchar","Amy Klobuchar","amyklobuchar",FALSE,TRUE,TRUE,"MN",NA,"Democrat","Sen","3-Jan-07",1,NA,6,1
+"Amy Klobuchar","Amy Klobuchar","SenAmyKlobuchar",FALSE,TRUE,TRUE,"MN",NA,"Democrat","Sen","3-Jan-07",1,NA,6,1
+"Tina Smith","Tina Smith","SenTinaSmith",FALSE,TRUE,FALSE,"MN",NA,"Democrat","Sen","3-Jan-18",1,NA,6,1
+"Tina Smith","Tina Smith","TinaSmithMN",FALSE,TRUE,FALSE,"MN",NA,"Democrat","Sen","3-Jan-18",1,NA,6,1
+"Josh Hawley","Josh Hawley","HawleyMO",FALSE,TRUE,FALSE,"MO",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Josh Hawley","Josh Hawley","SenHawleyPress",FALSE,TRUE,FALSE,"MO",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Roy Blunt","Roy Blunt","RoyBlunt",FALSE,TRUE,FALSE,"MO",NA,"Republican","Sen","10-Apr-18",1,"MO-7 from 1997-2011",6,1
+"Cindy Hyde-Smith","Cindy Hyde-Smith","cindyhydesmith",FALSE,TRUE,FALSE,"MS",NA,"Republican","Sen","9-Apr-18",1,NA,6,1
+"Cindy Hyde-Smith","Cindy Hyde-Smith","SenHydeSmith",FALSE,TRUE,FALSE,"MS",NA,"Republican","Sen","9-Apr-18",1,NA,6,1
+"Roger Wicker","Roger Wicker","SenatorWicker",FALSE,TRUE,FALSE,"MS",NA,"Republican","Sen","31-Dec-07",1,NA,6,1
+"Jon Tester","Jon Tester","SenatorTester",FALSE,TRUE,FALSE,"MT",NA,"Democrat","Sen","3-Jan-07",1,NA,6,1
+"Steve Daines","Steve Daines","SteveDaines",FALSE,TRUE,FALSE,"MT",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Richard Burr","Richard Burr","SenatorBurr",FALSE,TRUE,FALSE,"NC",NA,"Republican","Sen","3-Jan-05",1,NA,6,1
+"Thom Tillis","Thom Tillis","SenThomTillis",FALSE,TRUE,FALSE,"NC",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Thom Tillis","Thom Tillis","ThomTillis",FALSE,TRUE,FALSE,"NC",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"John Hoeven","John Hoeven","SenJohnHoeven",FALSE,TRUE,FALSE,"ND",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Kevin Cramer","Kevin Cramer","SenKevinCramer",FALSE,TRUE,FALSE,"ND",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Kevin Cramer","Kevin Cramer","kevincramer",FALSE,TRUE,FALSE,"ND",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Ben Sasse","Ben Sasse","BenSasse",FALSE,TRUE,TRUE,"NE",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Ben Sasse","Ben Sasse","SenSasse",FALSE,TRUE,TRUE,"NE",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Deb Fischer","Deb Fischer","SenatorFischer",FALSE,TRUE,FALSE,"NE",NA,"Republican","Sen","3-Jan-13",1,NA,6,1
+"Jeanne Shaheen","Jeanne Shaheen","SenatorShaheen",FALSE,TRUE,FALSE,"NH",NA,"Democrat","Sen","3-Jan-09",1,NA,6,1
+"Maggie Hassan","Maggie Hassan","Maggie_Hassan",FALSE,TRUE,FALSE,"NH",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Maggie Hassan","Maggie Hassan","SenatorHassan",FALSE,TRUE,FALSE,"NH",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Bob Menendez","Bob Menendez","SenatorMenendez",FALSE,TRUE,FALSE,"NJ",NA,"Democrat","Sen","17-Jan-06",1,"NJ-13 1993-2006",6,1
+"Cory Booker","Cory Booker","CoryBooker",FALSE,TRUE,TRUE,"NJ",NA,"Democrat","Sen","31-Oct-13",1,NA,6,1
+"Cory Booker","Cory Booker","SenBooker",FALSE,TRUE,TRUE,"NJ",NA,"Democrat","Sen","31-Oct-13",1,NA,6,1
+"Martin Heinrich","Martin Heinrich","MartinHeinrich",FALSE,TRUE,FALSE,"NM",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Martin Heinrich","Martin Heinrich","SenatorHeinrich",FALSE,TRUE,FALSE,"NM",NA,"Democrat","Sen","3-Jan-13",1,"NM-1 2009-2013",6,1
+"Tom Udall","Tom Udall","SenatorTomUdall",FALSE,TRUE,FALSE,"NM",NA,"Democrat","Sen","3-Jan-09",1,NA,6,1
+"Catherine Cortez Masto","Catherine Cortez Masto","CatherineforNV",FALSE,TRUE,FALSE,"NV",NA,"Democrat","Sen","3-Jan-19",1,NA,6,1
+"Catherine Cortez Masto","Catherine Cortez Masto","SenCortezMasto",FALSE,TRUE,FALSE,"NV",NA,"Democrat","Sen","3-Jan-19",1,NA,6,1
+"Catherine Cortez Masto","Catherine Cortez Masto","sencortezmasto",FALSE,TRUE,FALSE,"NV",NA,"Democrat","Sen","3-Jan-19",1,NA,6,1
+"Jacky Rosen","Jacky Rosen","SenJackyRosen",FALSE,TRUE,FALSE,"NV",NA,"Democrat","Sen","3-Jan-19",1,NA,6,1
+"Chuck Schumer","Chuck Schumer","SenSchumer",FALSE,TRUE,FALSE,"NY",NA,"Democrat","Sen","3-Jan-17",1,"NY-16",6,1
+"Kirsten Gillibrand","Kirsten Gillibrand","GillibrandNY",FALSE,TRUE,TRUE,"NY",NA,"Democrat","Sen","26-Jan-09",1,NA,5,1
+"Kirsten Gillibrand","Kirsten Gillibrand","SenGillibrand",FALSE,TRUE,TRUE,"NY",NA,"Democrat","Sen","26-Jan-09",1,NA,5,1
+"Rob Portman","Rob Portman","senrobportman",FALSE,TRUE,FALSE,"OH",NA,"Republican","Sen","3-Jan-11",1,"OH-2 from 1993 to 2005",6,1
+"Sherrod Brown","Sherrod Brown","SenSherrodBrown",FALSE,TRUE,FALSE,"OH",NA,"Democrat","Sen","3-Jan-07",1,"OH-13 from 1993 to 2007",6,1
+"Sherrod Brown","Sherrod Brown","sherrodbrown",FALSE,TRUE,FALSE,"OH",NA,"Democrat","Sen","3-Jan-07",1,"OH-13 from 1993 to 2007",6,1
+"James Lankford","James Lankford","SenatorLankford",FALSE,TRUE,FALSE,"OK",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"James Lankford","James Lankford","jameslankford",FALSE,TRUE,FALSE,"OK",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Jim Inhofe","Jim Inhofe","InhofePress",FALSE,TRUE,FALSE,"OK",NA,"Republican","Sen","17-Nov-94",1,NA,6,1
+"Jim Inhofe","Jim Inhofe","JimInhofe",FALSE,TRUE,FALSE,"OK",NA,"Republican","Sen","19-Nov-94",1,NA,6,1
+"Jeff Merkley","Jeff Merkley","JeffMerkley",FALSE,TRUE,FALSE,"OR",NA,"Democrat","Sen","3-Jan-09",1,NA,6,1
+"Jeff Merkley","Jeff Merkley","SenJeffMerkley",FALSE,TRUE,FALSE,"OR",NA,"Democrat","Sen","3-Jan-09",1,NA,6,1
+"Ron Wyden","Ron Wyden","RonWyden",FALSE,TRUE,FALSE,"OR",NA,"Democrat","Sen","5-Feb-96",1,NA,6,1
+"Bob Casey Jr.","Bob Casey Jr.","SenBobCasey",FALSE,TRUE,FALSE,"PA",NA,"Democrat","Sen","3-Jan-07",1,NA,6,1
+"Pat Toomey","Pat Toomey","SenToomey",FALSE,TRUE,FALSE,"PA",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Jack Reed","Jack Reed","SenJackReed",FALSE,TRUE,FALSE,"RI",NA,"Democrat","Sen","3-Jan-97",1,NA,4,1
+"Sheldon Whitehouse","Sheldon Whitehouse","SenWhitehouse",FALSE,TRUE,FALSE,"RI",NA,"Democrat","Sen","3-Jan-07",1,NA,6,1
+"Lindsey Graham","Lindsey Graham","GrahamBlog",FALSE,TRUE,FALSE,"SC",NA,"Republican","Sen","3-Jan-03",1,NA,6,1
+"Lindsey Graham","Lindsey Graham","LindseyGrahamSC",FALSE,TRUE,FALSE,"SC",NA,"Republican","Sen","3-Jan-03",1,NA,6,1
+"Tim Scott","Tim Scott","SenatorTimScott",FALSE,TRUE,FALSE,"SC",NA,"Republican","Sen","2-Jan-13",1,NA,6,1
+"John Thune","John Thune","SenJohnThune",FALSE,TRUE,FALSE,"SD",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Mike Rounds","Mike Rounds","SenatorRounds",FALSE,TRUE,FALSE,"SD",NA,"Republican","Sen","3-Jan-15",1,NA,6,1
+"Lamar Alexander","Lamar Alexander","SenAlexander",FALSE,TRUE,FALSE,"TN",NA,"Republican","Sen","3-Jan-03",1,NA,5,1
+"Lamar Alexander","Lamar Alexander","lamaralexander",FALSE,TRUE,FALSE,"TN",NA,"Republican","Sen","3-Jan-03",1,NA,5,1
+"Marsha Blackburn","Marsha Blackburn","MarshaBlackburn",FALSE,TRUE,FALSE,"TN",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"John Cornyn","John Cornyn","JohnCornyn",FALSE,TRUE,FALSE,"TX",NA,"Republican","Sen","2-Dec-02",1,NA,5,1
+"Ted Cruz","Ted Cruz","SenTedCruz",FALSE,TRUE,FALSE,"TX",NA,"Republican","Sen","3-Jan-13",1,NA,6,1
+"Ted Cruz","Ted Cruz","tedcruz",FALSE,TRUE,FALSE,"TX",NA,"Republican","Sen","3-Jan-13",1,NA,6,1
+"Mike Lee","Mike Lee","SenMikeLee",FALSE,TRUE,FALSE,"UT",NA,"Republican","Sen","3-Jan-19",1,NA,5,1
+"Mitt Romney","Mitt Romney","MittRomney",FALSE,TRUE,FALSE,"UT",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Mitt Romney","Mitt Romney","SenatorRomney",FALSE,TRUE,FALSE,"UT",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Mark Warner","Mark Warner","MarkWarner",FALSE,TRUE,FALSE,"VA",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Tim Kaine","Tim Kaine","SenTimKaine",FALSE,TRUE,FALSE,"VA",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Tim Kaine","Tim Kaine","timkaine",FALSE,TRUE,FALSE,"VA",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Bernie Sanders","Bernie Sanders","BernieSanders",FALSE,TRUE,TRUE,"VT",NA,"Independent","Sen","3-Jan-07",1,NA,6,1
+"Bernie Sanders","Bernie Sanders","SenSanders",FALSE,TRUE,TRUE,"VT",NA,"Independent","Sen","3-Jan-07",1,NA,6,1
+"Patrick Leahy","Patrick Leahy","SenatorLeahy",FALSE,TRUE,FALSE,"VT",NA,"Democrat","Sen","3-Jan-75",1,NA,6,1
+"Maria Cantwell","Maria Cantwell","SenatorCantwell",FALSE,TRUE,FALSE,"WA",NA,"Democrat","Sen","3-Jan-01",1,"WA-1 from 1993-1995",6,1
+"Patty Murray","Patty Murray","PattyMurray",FALSE,TRUE,FALSE,"WA",NA,"Democrat","Sen","3-Jan-17",1,NA,6,1
+"Ron Johnson","Ron Johnson","RonJohnsonWI",FALSE,TRUE,FALSE,"WI",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Ron Johnson","Ron Johnson","SenRonJohnson",FALSE,TRUE,FALSE,"WI",NA,"Republican","Sen","3-Jan-11",1,NA,6,1
+"Tammy Baldwin","Tammy Baldwin","SenatorBaldwin",FALSE,TRUE,FALSE,"WI",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Tammy Baldwin","Tammy Baldwin","tammybaldwin",FALSE,TRUE,FALSE,"WI",NA,"Democrat","Sen","3-Jan-13",1,NA,6,1
+"Joe Manchin","Joe Manchin","Sen_JoeManchin",FALSE,TRUE,FALSE,"WV",NA,"Democrat","Sen","15-Nov-10",1,NA,6,1
+"Shelley Moore Capito","Shelley Moore Capito","SenCapito",FALSE,TRUE,FALSE,"WV",NA,"Republican","Sen","3-Jan-15",1,"WV-2 from 2001 -2015",6,1
+"John Barrasso","John Barrasso","SenJohnBarrasso",FALSE,TRUE,FALSE,"WY",NA,"Republican","Sen","3-Jan-19",1,NA,6,1
+"Mike Enzi","Mike Enzi","SenatorEnzi",FALSE,TRUE,FALSE,"WY",NA,"Republican","Sen","3-Jan-97",1,NA,5,1
+"Don Young","Don Young","DonYoungAK",FALSE,TRUE,FALSE,"AK",0,"Republican","Rep","5-Dec-17",1,NA,6,1
+"Don Young","Don Young","repdonyoung",FALSE,TRUE,FALSE,"AK",0,"Republican","Rep","5-Dec-17",1,NA,6,1
+"Bradley Byrne","Bradley Byrne","bradleybyrne",FALSE,TRUE,FALSE,"AL",1,"Republican","Rep","8-Jan-14",1,NA,5,1
+"Bradley Byrne","Bradley Byrne","RepByrne",FALSE,TRUE,FALSE,"AL",1,"Republican","Rep","8-Jan-14",1,NA,5,1
+"Martha Roby","Martha Roby","RepMarthaRoby",FALSE,TRUE,FALSE,"AL",2,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Mike Rogers","Mike Rogers","RepMikeRogers",FALSE,TRUE,FALSE,"AL",3,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Mike Rogers","Mike Rogers","RepMikeRogersAL",FALSE,TRUE,FALSE,"AL",3,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Robert Aderholt","Robert Aderholt","Robert_Aderholt",FALSE,TRUE,FALSE,"AL",4,"Republican","Rep","3-Jan-97",1,NA,5,1
+"Mo Brooks","Mo Brooks","RepMoBrooks",FALSE,TRUE,FALSE,"AL",5,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Gary Palmer","Gary Palmer","RepGaryPalmer",FALSE,TRUE,FALSE,"AL",6,"Republican","Rep","3-Jan-15",1,NA,5,1
+"Gary Palmer","Gary Palmer","USRepGaryPalmer",FALSE,TRUE,FALSE,"AL",6,"Republican","Rep","3-Jan-15",1,NA,5,1
+"Terri Sewell","Terri Sewell","RepTerriSewell",FALSE,TRUE,FALSE,"AL",7,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"Rick Crawford","Rick Crawford","RepRickCrawford",FALSE,TRUE,FALSE,"AR",1,"Republican","Rep","3-Jan-11",1,NA,5,1
+"French Hill","French Hill","RepFrenchHill",FALSE,TRUE,FALSE,"AR",2,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Steve Womack","Steve Womack","rep_stevewomack",FALSE,TRUE,FALSE,"AR",3,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Bruce Westerman","Bruce Westerman","RepWesterman",FALSE,TRUE,FALSE,"AR",4,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Amata Coleman Radewagen","Amata Coleman Radewagen","RepAmata",FALSE,TRUE,FALSE,"AS",0,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Tom O'Halleran","Tom O'Halleran","RepOHalleran",FALSE,TRUE,FALSE,"AZ",1,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Ann Kirkpatrick","Ann Kirkpatrick","RepKirkpatrick",FALSE,TRUE,FALSE,"AZ",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Raúl Grijalva","Raul Grijalva","RepRaulGrijalva",FALSE,TRUE,FALSE,"AZ",3,"Democrat","Rep","3-Jan-03",1,"Later changed to AZ-7",6,1
+"Raúl Grijalva","Raul Grijalva","RepRaulGrijalva",FALSE,TRUE,FALSE,"AZ",3,"Democrat","Rep","3-Jan-03",1,NA,6,1
+"Paul Gosar","Paul Gosar","DrPaulGosar",FALSE,TRUE,FALSE,"AZ",4,"Republican","Rep","3-Jan-11",1,"Later changed to AZ-9 from redistricting",6,1
+"Paul Gosar","Paul Gosar","RepGosar",FALSE,TRUE,FALSE,"AZ",4,"Republican","Rep","3-Jan-11",1,"Later changed to AZ-9 from redistricting",6,1
+"Andy Biggs","Andy Biggs","RepAndyBiggs",FALSE,TRUE,FALSE,"AZ",5,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Andy Biggs","Andy Biggs","RepAndyBiggsAZ",FALSE,TRUE,FALSE,"AZ",5,"Republican","Rep","3-Jan-17",1,NA,6,1
+"David Schweikert","David Schweikert","RepDavid",FALSE,TRUE,FALSE,"AZ",6,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Ruben Gallego","Ruben Gallego","RepRubenGallego",FALSE,TRUE,FALSE,"AZ",7,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Ruben Gallego","Ruben Gallego","RubenGallego",FALSE,TRUE,FALSE,"AZ",7,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Debbie Lesko","Debbie Lesko","DebbieLesko",FALSE,TRUE,FALSE,"AZ",8,"Republican","Rep","7-May-18",1,NA,6,1
+"Debbie Lesko","Debbie Lesko","RepDLesko",FALSE,TRUE,FALSE,"AZ",8,"Republican","Rep","7-May-18",1,NA,6,1
+"Greg Stanton","Greg Stanton","Gregstantonaz",FALSE,TRUE,FALSE,"AZ",9,"Democrat","Rep","3-Jan-19",1,"Later changed to AZ-4 from redistricting",6,1
+"Greg Stanton","Greg Stanton","RepGregStanton",FALSE,TRUE,FALSE,"AZ",9,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Doug LaMalfa","Doug LaMalfa","RepLaMalfa",FALSE,TRUE,FALSE,"CA",1,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Jared Huffman","Jared Huffman","RepHuffman",FALSE,TRUE,FALSE,"CA",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Jared Huffman","Jared Huffman","JaredHuffman",FALSE,TRUE,FALSE,"CA",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"John Garamendi","John Garamendi","RepGaramendi",FALSE,TRUE,FALSE,"CA",3,"Democrat","Rep","3-Nov-09",1,NA,6,1
+"Tom McClintock","Tom McClintock","RepMcClintock",FALSE,TRUE,FALSE,"CA",4,"Republican","Rep","3-Jan-09",1,NA,6,1
+"Tom McClintock","Tom McClintock","Tommcclintock",FALSE,TRUE,FALSE,"CA",4,"Republican","Rep","3-Jan-09",1,NA,6,1
+"Mike Thompson","Mike Thompson","RepThompson",FALSE,TRUE,FALSE,"CA",5,"Democrat","Rep","3-Jan-99",1,NA,4,1
+"Doris Matsui","Doris Matsui","DorisMatsui",FALSE,TRUE,FALSE,"CA",6,"Democrat","Rep","10-Mar-05",1,NA,6,1
+"Ami Bera","Ami Bera","RepBera",FALSE,TRUE,FALSE,"CA",7,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Paul Cook","Paul Cook","RepPaulCook",FALSE,TRUE,FALSE,"CA",8,"Republican","Rep","3-Jan-13",0,"Until 12/7/20",4,1
+"Jerry McNerney","Jerry McNerney","RepMcNerney",FALSE,TRUE,FALSE,"CA",9,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Josh Harder","Josh Harder","RepJoshHarder",FALSE,TRUE,FALSE,"CA",10,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Mark DeSaulnier","Mark DeSaulnier","RepDeSaulnier",FALSE,TRUE,FALSE,"CA",11,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Nancy Pelosi","Nancy Pelosi","SpeakerPelosi",FALSE,TRUE,FALSE,"CA",12,"Democrat","Rep","2-Jun-87",1,NA,6,1
+"Barbara Lee","Barbara Lee","RepBarbaraLee",FALSE,TRUE,FALSE,"CA",13,"Democrat","Rep","21-Apr-98",1,NA,6,1
+"Jackie Speier","Jackie Speier","RepSpeier",FALSE,TRUE,FALSE,"CA",14,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Eric Swalwell","Eric Swalwell","ericswalwell",FALSE,TRUE,TRUE,"CA",15,"Democrat","Rep","3-Jan-13",1,"CA-14 since 2023",6,1
+"Eric Swalwell","Eric Swalwell","RepSwalwell",FALSE,TRUE,TRUE,"CA",15,"Democrat","Rep","3-Jan-13",1,"CA-14 since 2023",6,1
+"Jim Costa","Jim Costa","RepJimCosta",FALSE,TRUE,FALSE,"CA",16,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Ro Khanna","Ro Khanna","RepRoKhanna",FALSE,TRUE,FALSE,"CA",17,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Ro Khanna","Ro Khanna","RoKhanna",FALSE,TRUE,FALSE,"CA",17,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Anna Eshoo","Anna Eshoo","RepAnnaEshoo",FALSE,TRUE,FALSE,"CA",18,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Zoe Lofgren","Zoe Lofgren","RepZoeLofgren",FALSE,TRUE,FALSE,"CA",19,"Democrat","Rep","3-Jan-95",1,NA,6,1
+"Jimmy Panetta","Jimmy Panetta","RepJimmyPanetta",FALSE,TRUE,FALSE,"CA",20,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"TJ Cox","TJ Cox","RepTjCox",FALSE,TRUE,FALSE,"CA",21,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"TJ Cox","TJ Cox","TJCoxCongress",FALSE,TRUE,FALSE,"CA",21,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Devin Nunes","Devin Nunes","RepDevinNunes",FALSE,TRUE,FALSE,"CA",22,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Devin Nunes","Devin Nunes","DevinNunes",FALSE,TRUE,FALSE,"CA",22,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Kevin McCarthy","Kevin McCarthy","GOPLeader",FALSE,TRUE,FALSE,"CA",23,"Republican","Rep","3-Jan-07",1,NA,6,1
+"Salud Carbajal","Salud Carbajal","RepCarbajal",FALSE,TRUE,FALSE,"CA",24,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Katie Hill","Katie Hill","RepKatieHill",FALSE,TRUE,FALSE,"CA",25,"Democrat","Rep","3-Jan-19",0,"Until 11/3/19",NA,0
+"Katie Hill","Katie Hill","katiehill4ca",FALSE,TRUE,FALSE,"CA",25,"Democrat","Rep","3-Jan-19",0,"Until 11/3/19",NA,0
+"Mike Garcia","Mike Garcia","RepMikeGarcia",FALSE,TRUE,FALSE,"CA",25,"Republican","Rep","12-May-20",0,"From 5/12/2020",NA,0
+"Mike Garcia","Mike Garcia","ElectMikeGarcia",FALSE,TRUE,FALSE,"CA",25,"Republican","Rep","12-May-20",0,"From 5/12/2020",NA,0
+"Julia Brownley","Julia Brownley","JuliaBrownley26",FALSE,TRUE,FALSE,"CA",26,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Julia Brownley","Julia Brownley","RepBrownley",FALSE,TRUE,FALSE,"CA",26,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Judy Chu","Judy Chu","RepJudyChu",FALSE,TRUE,FALSE,"CA",27,"Democrat","Rep","14-Jul-09",1,NA,6,1
+"Adam Schiff","Adam Schiff","RepAdamSchiff",FALSE,TRUE,FALSE,"CA",28,"Democrat","Rep","3-Jan-01",1,NA,5,1
+"Tony Cárdenas","Tony Cardenas","RepCardenas",FALSE,TRUE,FALSE,"CA",29,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Brad Sherman","Brad Sherman","BradSherman",FALSE,TRUE,FALSE,"CA",30,"Democrat","Rep","3-Jan-97",1,NA,6,1
+"Pete Aguilar","Pete Aguilar","aguilarpete",FALSE,TRUE,FALSE,"CA",31,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Pete Aguilar","Pete Aguilar","PeteAguilar",FALSE,TRUE,FALSE,"CA",31,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Pete Aguilar","Pete Aguilar","RepPeteAguilar",FALSE,TRUE,FALSE,"CA",31,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Grace Napolitano","Grace Napolitano","gracenapolitano",FALSE,TRUE,FALSE,"CA",32,"Democrat","Rep","3-Jan-99",1,NA,6,1
+"Ted Lieu","Ted Lieu","RepTedLieu",FALSE,TRUE,FALSE,"CA",33,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Ted Lieu","Ted Lieu","tedlieu",FALSE,TRUE,FALSE,"CA",33,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Jimmy Gomez","Jimmy Gomez","JimmyGomezCA",FALSE,TRUE,FALSE,"CA",34,"Democrat","Rep","11-Jul-17",1,NA,6,1
+"Jimmy Gomez","Jimmy Gomez","RepJimmyGomez",FALSE,TRUE,FALSE,"CA",34,"Democrat","Rep","11-Jul-17",1,NA,6,1
+"Norma Torres","Norma Torres","NormaJTorres",FALSE,TRUE,FALSE,"CA",35,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Raul Ruiz","Raul Ruiz","CongressmanRuiz",FALSE,TRUE,FALSE,"CA",36,"Democrat","Rep","3-Jan-13",1,NA,5,1
+"Raul Ruiz","Raul Ruiz","RepRaulRuizMD",FALSE,TRUE,FALSE,"CA",36,"Democrat","Rep","3-Jan-13",1,NA,5,1
+"Karen Bass","Karen Bass","RepKarenBass",FALSE,TRUE,FALSE,"CA",37,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"Linda Sánchez","Linda Sanchez","RepLindaSanchez",FALSE,TRUE,FALSE,"CA",38,"Democrat","Rep","3-Jan-03",1,NA,6,1
+"Gil Cisneros","Gil Cisneros","RepGilCisneros",FALSE,TRUE,FALSE,"CA",39,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Lucille Roybal-Allard","Lucille Roybal-Allard","RepRoybalAllard",FALSE,TRUE,FALSE,"CA",40,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Mark Takano","Mark Takano","RepMarkTakano",FALSE,TRUE,FALSE,"CA",41,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Ken Calvert","Ken Calvert","KenCalvert",FALSE,TRUE,FALSE,"CA",42,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Maxine Waters","Maxine Waters","RepMaxineWaters",FALSE,TRUE,FALSE,"CA",43,"Democrat","Rep","3-Jan-91",1,NA,6,1
+"Nanette Barragán","Nanette Barragan","RepBarragan",FALSE,TRUE,FALSE,"CA",44,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Katie Porter","Katie Porter","katieporteroc",FALSE,TRUE,FALSE,"CA",45,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Katie Porter","Katie Porter","RepKatiePorter",FALSE,TRUE,FALSE,"CA",45,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Lou Correa","Lou Correa","RepLouCorrea",FALSE,TRUE,FALSE,"CA",46,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Alan Lowenthal","Alan Lowenthal","RepLowenthal",FALSE,TRUE,FALSE,"CA",47,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Harley Rouda","Harley Rouda","HarleyRouda",FALSE,TRUE,FALSE,"CA",48,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Harley Rouda","Harley Rouda","RepHarley",FALSE,TRUE,FALSE,"CA",48,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Mike Levin","Mike Levin","MikeLevin",FALSE,TRUE,FALSE,"CA",49,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Mike Levin","Mike Levin","RepMikeLevin",FALSE,TRUE,FALSE,"CA",49,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Duncan D. Hunter","Duncan D. Hunter","Rep_Hunter",FALSE,TRUE,FALSE,"CA",50,"Republican","Rep","3-Jan-13",0,"Until 1/13/2020",6,1
+"Juan Vargas","Juan Vargas","RepJuanVargas",FALSE,TRUE,FALSE,"CA",51,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Scott Peters","Scott Peters","RepScottPeters",FALSE,TRUE,FALSE,"CA",52,"Democrat","Rep","3-Jan-13",1,NA,4,1
+"Scott Peters","Scott Peters","ScottPetersSD",FALSE,TRUE,FALSE,"CA",52,"Democrat","Rep","3-Jan-13",1,NA,4,1
+"Susan Davis","Susan Davis","RepSusanDavis",FALSE,TRUE,FALSE,"CA",53,"Democrat","Rep","3-Jan-01",1,NA,5,1
+"Diana DeGette","Diana DeGette","RepDianaDeGette",FALSE,TRUE,FALSE,"CO",1,"Democrat","Rep","3-Jan-97",1,NA,6,1
+"Joe Neguse","Joe Neguse","JoeNeguse",FALSE,TRUE,FALSE,"CO",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Joe Neguse","Joe Neguse","RepJoeNeguse",FALSE,TRUE,FALSE,"CO",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Scott Tipton","Scott Tipton","RepTipton",FALSE,TRUE,FALSE,"CO",3,"Republican","Rep","3-Jan-11",1,NA,5,1
+"Ken Buck","Ken Buck","RepKenBuck",FALSE,TRUE,FALSE,"CO",4,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Doug Lamborn","Doug Lamborn","RepDLamborn",FALSE,TRUE,FALSE,"CO",5,"Republican","Rep","3-Jan-07",1,NA,6,1
+"Jason Crow","Jason Crow","RepJasonCrow",FALSE,TRUE,FALSE,"CO",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ed Perlmutter","Ed Perlmutter","RepPerlmutter",FALSE,TRUE,FALSE,"CO",7,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"John B. Larson","John B. Larson","RepJohnLarson",FALSE,TRUE,FALSE,"CT",1,"Democrat","Rep","3-Jan-99",1,NA,6,1
+"Joe Courtney","Joe Courtney","RepJoeCourtney",FALSE,TRUE,FALSE,"CT",2,"Democrat","Rep","3-Jan-07",1,NA,5,1
+"Rosa DeLauro","Rosa DeLauro","Rosa_deLauro",FALSE,TRUE,FALSE,"CT",3,"Democrat","Rep","3-Jan-91",1,NA,6,1
+"Rosa DeLauro","Rosa DeLauro","rosadelauro",FALSE,TRUE,FALSE,"CT",3,"Democrat","Rep","3-Jan-91",1,NA,6,1
+"Jim Himes","Jim Himes","jahimes",FALSE,TRUE,FALSE,"CT",4,"Democrat","Rep","3-Jan-09",1,NA,6,1
+"Jahana Hayes","Jahana Hayes","RepJahanaHayes",FALSE,TRUE,FALSE,"CT",5,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Eleanor Holmes Norton","Eleanor Holmes Norton","EleanorNorton",FALSE,TRUE,FALSE,"DC",0,"Democrat","Rep","3-Jan-91",1,NA,6,1
+"Lisa Blunt Rochester","Lisa Blunt Rochester","LisaBRochester",FALSE,TRUE,FALSE,"DE",0,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Lisa Blunt Rochester","Lisa Blunt Rochester","RepLBR",FALSE,TRUE,FALSE,"DE",0,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Matt Gaetz","Matt Gaetz","mattgaetz",FALSE,TRUE,FALSE,"FL",1,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Matt Gaetz","Matt Gaetz","RepMattGaetz",FALSE,TRUE,FALSE,"FL",1,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Neal Dunn","Neal Dunn","DrNealDunnFL2",FALSE,TRUE,FALSE,"FL",2,"Republican","Rep","3-Jan-17",1,NA,5,1
+"Neal Dunn","Neal Dunn","drnealdunnfl2",FALSE,TRUE,FALSE,"FL",2,"Republican","Rep","3-Jan-17",1,NA,5,1
+"Ted Yoho","Ted Yoho","RepTedYoho",FALSE,TRUE,FALSE,"FL",3,"Republican","Rep","3-Jan-13",1,NA,6,1
+"John Rutherford","John Rutherford","RepRutherfordFL",FALSE,TRUE,FALSE,"FL",4,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Al Lawson","Al Lawson","RepAlLawsonJr",FALSE,TRUE,FALSE,"FL",5,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Michael Waltz","Michael Waltz","Michaelgwaltz",FALSE,TRUE,FALSE,"FL",6,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Michael Waltz","Michael Waltz","RepMichaelWaltz",FALSE,TRUE,FALSE,"FL",6,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Stephanie Murphy","Stephanie Murphy","RepStephMurphy",FALSE,TRUE,FALSE,"FL",7,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Bill Posey","Bill Posey","congbillposey",FALSE,TRUE,FALSE,"FL",8,"Republican","Rep","3-Jan-09",1,NA,4,1
+"Darren Soto","Darren Soto","RepDarrenSoto",FALSE,TRUE,FALSE,"FL",9,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Val Demings","Val Demings","RepValDemings",FALSE,TRUE,FALSE,"FL",10,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Daniel Webster","Daniel Webster","RepWebster",FALSE,TRUE,FALSE,"FL",11,"Republican","Rep","3-Jan-11",1,NA,1,1
+"Gus Bilirakis","Gus Bilirakis","RepGusBilirakis",FALSE,TRUE,FALSE,"FL",12,"Republican","Rep","3-Jan-07",1,NA,6,1
+"Charlie Crist","Charlie Crist","CharlieChrist",FALSE,TRUE,FALSE,"FL",13,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Charlie Crist","Charlie Crist","RepCharlieCrist",FALSE,TRUE,FALSE,"FL",13,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Kathy Castor","Kathy Castor","USRepKCastor",FALSE,TRUE,FALSE,"FL",14,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Ross Spano","Ross Spano","RepRossSpano",FALSE,TRUE,FALSE,"FL",15,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Vern Buchanan","Vern Buchanan","VernBuchanan",FALSE,TRUE,FALSE,"FL",16,"Republican","Rep","3-Jan-07",1,NA,6,1
+"Greg Steube","Greg Steube","RepGregSteube",FALSE,TRUE,FALSE,"FL",17,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Brian Mast","Brian Mast","RepBrianMast",FALSE,TRUE,FALSE,"FL",18,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Francis Rooney","Francis Rooney","FrancisRooney",FALSE,TRUE,FALSE,"FL",19,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Francis Rooney","Francis Rooney","RepRooney",FALSE,TRUE,FALSE,"FL",19,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Alcee Hastings","Alcee Hastings","RepHastingsFL",FALSE,TRUE,FALSE,"FL",20,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Lois Frankel","Lois Frankel","RepLoisFrankel",FALSE,TRUE,FALSE,"FL",21,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Ted Deutch","Ted Deutch","RepTedDeutch",FALSE,TRUE,FALSE,"FL",22,"Democrat","Rep","13-Apr-10",1,NA,6,1
+"Ted Deutch","Ted Deutch","TedDeutch",FALSE,TRUE,FALSE,"FL",22,"Democrat","Rep","13-Apr-10",1,NA,6,1
+"Debbie Wasserman Schultz","Debbie Wasserman Schultz","DWStweets",FALSE,TRUE,FALSE,"FL",23,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Debbie Wasserman Schultz","Debbie Wasserman Schultz","RepDWStweets",FALSE,TRUE,FALSE,"FL",23,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Debbie Wasserman Schultz","Debbie Wasserman Schultz","debbieforfl",FALSE,TRUE,FALSE,"FL",23,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Frederica Wilson","Frederica Wilson","RepWilson",FALSE,TRUE,FALSE,"FL",24,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"Mario Díaz-Balart","Mario Di­az-Balart","MarioDB",FALSE,TRUE,FALSE,"FL",25,"Republican","Rep","3-Jan-03",1,NA,NA,1
+"Mario Díaz-Balart","Mario Di­az-Balart","Mdiazbalart",FALSE,TRUE,FALSE,"FL",25,"Republican","Rep","3-Jan-03",1,NA,NA,1
+"Debbie Mucarsel-Powell","Debbie Mucarsel-Powell","DebbieforFL",FALSE,TRUE,FALSE,"FL",26,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Debbie Mucarsel-Powell","Debbie Mucarsel-Powell","RepDMP",FALSE,TRUE,FALSE,"FL",26,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Donna Shalala","Donna Shalala","DonnaShalala",FALSE,TRUE,FALSE,"FL",27,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Donna Shalala","Donna Shalala","RepShalala",FALSE,TRUE,FALSE,"FL",27,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Buddy Carter","Buddy Carter","RepBuddyCarter",FALSE,TRUE,FALSE,"GA",1,"Republican","Rep","3-Jan-15",1,NA,5,1
+"Sanford Bishop","Sanford Bishop","SanfordBishop",FALSE,TRUE,FALSE,"GA",2,"Democrat","Rep","3-Jan-93",1,NA,4,1
+"Drew Ferguson","Drew Ferguson","RepDrewFerguson",FALSE,TRUE,FALSE,"GA",3,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Hank Johnson","Hank Johnson","RepHankJohnson",FALSE,TRUE,FALSE,"GA",4,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"John Lewis","John Lewis","RepJohnLewis",FALSE,TRUE,FALSE,"GA",5,"Democrat","Rep","3-Jan-87",0,"until 7/17/2020",0,1
+"Kwanza Hall","Kwanza Hall","kwanzahall",FALSE,TRUE,FALSE,"GA",5,"Democrat","Rep","1-Dec-20",0,"from 12/1/2020",NA,0
+"Lucy McBath","Lucy McBath","Lucymcbath",FALSE,TRUE,FALSE,"GA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Lucy McBath","Lucy McBath","RepLucyMcBath",FALSE,TRUE,FALSE,"GA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Rob Woodall","Rob Woodall","RepRobWoodall",FALSE,TRUE,FALSE,"GA",7,"Republican","Rep","3-Jan-11",1,NA,4,1
+"Austin Scott","Austin Scott","AustinScottGA",FALSE,TRUE,FALSE,"GA",8,"Republican","Rep","3-Jan-11",1,NA,5,1
+"Austin Scott","Austin Scott","AustinScottGA08",FALSE,TRUE,FALSE,"GA",8,"Republican","Rep","3-Jan-11",1,NA,5,1
+"Doug Collins","Doug Collins","RepDougCollins",FALSE,TRUE,FALSE,"GA",9,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Jody Hice","Jody Hice","CongressmanHice",FALSE,TRUE,FALSE,"GA",10,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Barry Loudermilk","Barry Loudermilk","RepLoudermilk",FALSE,TRUE,FALSE,"GA",11,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Rick W. Allen","Rick W. Allen","RepRickAllen",FALSE,TRUE,FALSE,"GA",12,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Rick W. Allen","Rick W. Allen","rickallen",FALSE,TRUE,FALSE,"GA",12,"Republican","Rep","3-Jan-15",1,NA,6,1
+"David Scott","David Scott","RepDavidScott",FALSE,TRUE,FALSE,"GA",13,"Democrat","Rep","3-Jan-03",1,NA,3,1
+"Tom Graves","Tom Graves","RepTomGraves",FALSE,TRUE,FALSE,"GA",14,"Republican","Rep","3-Jan-13",0,"until 10/4/2020",6,1
+"Michael San Nicolas","Michael San Nicolas","GuamCongressman",FALSE,TRUE,FALSE,"GU",0,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Ed Case","Ed Case","RepEdCase",FALSE,TRUE,FALSE,"HI",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Tulsi Gabbard","Tulsi Gabbard","TulsiGabbard",FALSE,TRUE,TRUE,"HI",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Tulsi Gabbard","Tulsi Gabbard","TulsiPress",FALSE,TRUE,TRUE,"HI",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Abby Finkenauer","Abby Finkenauer","abby4iowa",FALSE,TRUE,FALSE,"IA",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Abby Finkenauer","Abby Finkenauer","RepFinkenauer",FALSE,TRUE,FALSE,"IA",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Dave Loebsack","Dave Loebsack","DaveLoebsack",FALSE,TRUE,FALSE,"IA",2,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Cindy Axne","Cindy Axne","RepCindyAxne",FALSE,TRUE,FALSE,"IA",3,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Steve King","Steve King","SteveKingIA",FALSE,TRUE,FALSE,"IA",4,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Russ Fulcher","Russ Fulcher","RepRussFulcher",FALSE,TRUE,FALSE,"ID",1,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Mike Simpson","Mike Simpson","CongMikeSimpson",FALSE,TRUE,FALSE,"ID",2,"Republican","Rep","3-Jan-99",1,NA,6,1
+"Bobby Rush","Bobby Rush","RepBobbyRush",FALSE,TRUE,FALSE,"IL",1,"Democrat","Rep","3-Jan-93",1,NA,5,1
+"Robin Kelly","Robin Kelly","RepRobinKelly",FALSE,TRUE,FALSE,"IL",2,"Democrat","Rep","11-Apr-13",1,NA,6,1
+"Robin Kelly","Robin Kelly","RobinLynneKelly",FALSE,TRUE,FALSE,"IL",2,"Democrat","Rep","11-Apr-13",1,NA,6,1
+"Dan Lipinski","Dan Lipinski","RepLipinski",FALSE,TRUE,FALSE,"IL",3,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Jesús Chuy García","Jesus Chuy Garci­a","ChuyForCongress",FALSE,TRUE,FALSE,"IL",4,"Democrat","Rep","3-Jan-19",1,NA,NA,1
+"Jesús Chuy García","Jesus Chuy Garci­a","RepChuyGarcia",FALSE,TRUE,FALSE,"IL",4,"Democrat","Rep","3-Jan-19",1,NA,NA,1
+"Mike Quigley","Mike Quigley","RepMikeQuigley",FALSE,TRUE,FALSE,"IL",5,"Democrat","Rep","7-Apr-09",1,NA,5,1
+"Sean Casten","Sean Casten","RepCasten",FALSE,TRUE,FALSE,"IL",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Sean Casten","Sean Casten","SeanCasten",FALSE,TRUE,FALSE,"IL",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Danny K. Davis","Danny K. Davis","RepDannyDavis",FALSE,TRUE,FALSE,"IL",7,"Democrat","Rep","3-Jan-97",1,NA,6,1
+"Raja Krishnamoorthi","Raja Krishnamoorthi","CongressmanRaja",FALSE,TRUE,FALSE,"IL",8,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Jan Schakowsky","Jan Schakowsky","janschakowsky",FALSE,TRUE,FALSE,"IL",9,"Democrat","Rep","3-Jan-99",1,NA,6,1
+"Brad Schneider","Brad Schneider","RepSchneider",FALSE,TRUE,FALSE,"IL",10,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Bill Foster","Bill Foster","RepBillFoster",FALSE,TRUE,FALSE,"IL",11,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Mike Bost","Mike Bost","RepBost",FALSE,TRUE,FALSE,"IL",12,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Rodney Davis","Rodney Davis","RodneyDavis",FALSE,TRUE,FALSE,"IL",13,"Republican","Rep","3-Jan-13",1,NA,5,1
+"Lauren Underwood","Lauren Underwood","LaurenUnderwood",FALSE,TRUE,FALSE,"IL",14,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Lauren Underwood","Lauren Underwood","RepUnderwood",FALSE,TRUE,FALSE,"IL",14,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"John Shimkus","John Shimkus","RepShimkus",FALSE,TRUE,FALSE,"IL",15,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Adam Kinzinger","Adam Kinzinger","RepKinzinger",FALSE,TRUE,FALSE,"IL",16,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Cheri Bustos","Cheri Bustos","CheriBustos",FALSE,TRUE,FALSE,"IL",17,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Cheri Bustos","Cheri Bustos","RepCheri",FALSE,TRUE,FALSE,"IL",17,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Darin LaHood","Darin LaHood","RepLaHood",FALSE,TRUE,FALSE,"IL",18,"Republican","Rep","10-Sep-15",1,NA,6,1
+"Pete Visclosky","Pete Visclosky","RepVisclosky",FALSE,TRUE,FALSE,"IN",1,"Democrat","Rep","3-Jan-85",1,NA,4,1
+"Jackie Walorski","Jackie Walorski","RepWalorski",FALSE,TRUE,FALSE,"IN",2,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Jim Banks","Jim Banks","RepJimBanks",FALSE,TRUE,FALSE,"IN",3,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Jim Banks","Jim Banks","Jim_Banks",FALSE,TRUE,FALSE,"IN",3,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Jim Baird","Jim Baird","RepJimBaird",FALSE,TRUE,FALSE,"IN",4,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Susan Brooks","Susan Brooks","SusanWBrooks",FALSE,TRUE,FALSE,"IN",5,"Republican","Rep","3-Jan-13",1,NA,5,1
+"Greg Pence","Greg Pence","RepGregPence",FALSE,TRUE,FALSE,"IN",6,"Republican","Rep","3-Jan-19",1,NA,6,1
+"André Carson","Andre Carson","RepAndreCarson",FALSE,TRUE,FALSE,"IN",7,"Democrat","Rep","11-Mar-08",1,NA,6,1
+"Larry Bucshon","Larry Bucshon","RepLarryBucshon",FALSE,TRUE,FALSE,"IN",8,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Trey Hollingsworth","Trey Hollingsworth","RepTrey",FALSE,TRUE,FALSE,"IN",9,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Roger Marshall","Roger Marshall","RepMarshall",FALSE,TRUE,FALSE,"KS",1,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Roger Marshall","Roger Marshall","RogerMarshallMD",FALSE,TRUE,FALSE,"KS",1,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Steve Watkins","Steve Watkins","Rep_Watkins",FALSE,TRUE,FALSE,"KS",2,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Sharice Davids","Sharice Davids","RepDavids",FALSE,TRUE,FALSE,"KS",3,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ron Estes","Ron Estes","RepRonEstes",FALSE,TRUE,FALSE,"KS",4,"Republican","Rep","25-Apr-17",1,NA,6,1
+"James Comer","James Comer","KYComer",FALSE,TRUE,FALSE,"KY",1,"Republican","Rep","8-Nov-16",1,NA,6,1
+"James Comer","James Comer","JamesComer",FALSE,TRUE,FALSE,"KY",1,"Republican","Rep","8-Nov-16",1,NA,6,1
+"Brett Guthrie","Brett Guthrie","RepGuthrie",FALSE,TRUE,FALSE,"KY",2,"Republican","Rep","3-Jan-09",1,NA,6,1
+"John Yarmuth","John Yarmuth","RepJohnYarmuth",FALSE,TRUE,FALSE,"KY",3,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Thomas Massie","Thomas Massie","RepThomasMassie",FALSE,TRUE,FALSE,"KY",4,"Republican","Rep","13-Nov-12",1,NA,6,1
+"Hal Rogers","Hal Rogers","RepHalRogers",FALSE,TRUE,FALSE,"KY",5,"Republican","Rep","3-Jan-81",1,NA,6,1
+"Andy Barr","Andy Barr","RepAndyBarr",FALSE,TRUE,FALSE,"KY",6,"Republican","Rep","3-Jan-13",1,NA,5,1
+"Steve Scalise","Steve Scalise","SteveScalise",FALSE,TRUE,FALSE,"LA",1,"Republican","Rep","3-May-08",1,NA,6,1
+"Cedric Richmond","Cedric Richmond","RepRichmond",FALSE,TRUE,FALSE,"LA",2,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"Clay Higgins","Clay Higgins","RepClayHiggins",FALSE,TRUE,FALSE,"LA",3,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Mike Johnson","Mike Johnson","RepMikeJohnson",FALSE,TRUE,FALSE,"LA",4,"Republican","Rep","3-Jan-17",1,NA,3,1
+"Ralph Abraham","Ralph Abraham","RepAbraham",FALSE,TRUE,FALSE,"LA",5,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Garret Graves","Garret Graves","RepGarretGraves",FALSE,TRUE,FALSE,"LA",6,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Richard Neal","Richard Neal","RepRichardNeal",FALSE,TRUE,FALSE,"MA",1,"Democrat","Rep","3-Jan-89",1,NA,6,1
+"Jim McGovern","Jim McGovern","RepMcGovern",FALSE,TRUE,FALSE,"MA",2,"Democrat","Rep","3-Jan-97",1,NA,6,1
+"Lori Trahan","Lori Trahan","RepLoriTrahan",FALSE,TRUE,FALSE,"MA",3,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Joe Kennedy III","Joe Kennedy III","Joekennedy",FALSE,TRUE,FALSE,"MA",4,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Joe Kennedy III","Joe Kennedy III","RepJoeKennedy",FALSE,TRUE,FALSE,"MA",4,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Katherine Clark","Katherine Clark","RepKClark",FALSE,TRUE,FALSE,"MA",5,"Democrat","Rep","12-Dec-13",1,NA,5,1
+"Seth Moulton","Seth Moulton","sethmoulton",FALSE,TRUE,TRUE,"MA",6,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Seth Moulton","Seth Moulton","teammoulton",FALSE,TRUE,TRUE,"MA",6,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Ayanna Pressley","Ayanna Pressley","AyannaPressley",FALSE,TRUE,FALSE,"MA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ayanna Pressley","Ayanna Pressley","RepPressley",FALSE,TRUE,FALSE,"MA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Stephen F. Lynch","Stephen F. Lynch","RepStephenLynch",FALSE,TRUE,FALSE,"MA",8,"Democrat","Rep","16-Oct-01",1,NA,6,1
+"Bill Keating","Bill Keating","USRepKeating",FALSE,TRUE,FALSE,"MA",9,"Democrat","Rep","3-Jan-11",1,NA,4,1
+"Andy Harris","Andy Harris","RepAndyHarrisMD",FALSE,TRUE,FALSE,"MD",1,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Dutch Ruppersberger","Dutch Ruppersberger","Call_Me_Dutch",FALSE,TRUE,FALSE,"MD",2,"Democrat","Rep","3-Jan-03",1,NA,5,1
+"John Sarbanes","John Sarbanes","RepSarbanes",FALSE,TRUE,FALSE,"MD",3,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Anthony G. Brown","Anthony G. Brown","RepAnthonyBrown",FALSE,TRUE,FALSE,"MD",4,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Steny Hoyer","Steny Hoyer","LeaderHoyer",FALSE,TRUE,FALSE,"MD",5,"Democrat","Rep","19-May-81",1,NA,6,1
+"Steny Hoyer","Steny Hoyer","StenyHoyer",FALSE,TRUE,FALSE,"MD",5,"Democrat","Rep","19-May-81",1,NA,6,1
+"David Trone","David Trone","davidjtrone",FALSE,TRUE,FALSE,"MD",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"David Trone","David Trone","RepDavidTrone",FALSE,TRUE,FALSE,"MD",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Elijah Cummings","Elijah Cummings","RepCummings",FALSE,TRUE,FALSE,"MD",7,"Democrat","Rep","16-Apr-96",0,"Until 10/17/19",NA,0
+"Kweisi Mfume","Kweisi Mfume","Mfume4Congress",FALSE,TRUE,FALSE,"MD",7,"Democrat","Rep","28-Apr-20",0,"From 4/28/20",NA,0
+"Jamie Raskin","Jamie Raskin","RepRaskin",FALSE,TRUE,FALSE,"MD",8,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Chellie Pingree","Chellie Pingree","chelliepingree",FALSE,TRUE,FALSE,"ME",1,"Democrat","Rep","3-Jan-09",1,NA,6,1
+"Jared Golden","Jared Golden","RepGolden",FALSE,TRUE,FALSE,"ME",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Jack Bergman","Jack Bergman","JackBergman_MI1",FALSE,TRUE,FALSE,"MI",1,"Republican","Rep","3-Jan-19",1,NA,5,1
+"Jack Bergman","Jack Bergman","RepJackBergman",FALSE,TRUE,FALSE,"MI",1,"Republican","Rep","3-Jan-19",1,NA,5,1
+"Bill Huizenga","Bill Huizenga","RepHuizenga",FALSE,TRUE,FALSE,"MI",2,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Justin Amash","Justin Amash","justinamash",FALSE,TRUE,FALSE,"MI",3,"Independent","Rep","3-Jan-11",1,NA,6,1
+"John Moolenaar","John Moolenaar","RepMoolenaar",FALSE,TRUE,FALSE,"MI",4,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Dan Kildee","Dan Kildee","RepDanKildee",FALSE,TRUE,FALSE,"MI",5,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Fred Upton","Fred Upton","RepFredUpton",FALSE,TRUE,FALSE,"MI",6,"Republican","Rep","3-Jan-93",1,NA,6,1
+"Tim Walberg","Tim Walberg","RepWalberg",FALSE,TRUE,FALSE,"MI",7,"Republican","Rep","3-Jan-11",1,NA,5,1
+"Elissa Slotkin","Elissa Slotkin","RepSlotkin",FALSE,TRUE,FALSE,"MI",8,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Andy Levin","Andy Levin","RepAndyLevin",FALSE,TRUE,FALSE,"MI",9,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Paul Mitchell","Paul Mitchell","RepPaulMitchell",FALSE,TRUE,FALSE,"MI",10,"Republican","Rep","3-Jan-17",1,"Became independent after 2020",1,1
+"Haley Stevens","Haley Stevens","HaleyLive",FALSE,TRUE,FALSE,"MI",11,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Haley Stevens","Haley Stevens","RepHaleyStevens",FALSE,TRUE,FALSE,"MI",11,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Debbie Dingell","Debbie Dingell","RepDebDingell",FALSE,TRUE,FALSE,"MI",12,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Rashida Tlaib","Rashida Tlaib","RashidaTlaib",FALSE,TRUE,FALSE,"MI",13,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Rashida Tlaib","Rashida Tlaib","RepRashida",FALSE,TRUE,FALSE,"MI",13,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Brenda Lawrence","Brenda Lawrence","RepLawrence",FALSE,TRUE,FALSE,"MI",14,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Jim Hagedorn","Jim Hagedorn","RepHagedorn",FALSE,TRUE,FALSE,"MN",1,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Angie Craig","Angie Craig","RepAngieCraig",FALSE,TRUE,FALSE,"MN",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Dean Phillips","Dean Phillips","RepDeanPhillips",FALSE,TRUE,FALSE,"MN",3,"Democrat","Rep","3-Jan-19",1,NA,4,1
+"Betty McCollum","Betty McCollum","BettyMcCollum",FALSE,TRUE,FALSE,"MN",4,"Democrat","Rep","3-Jan-01",1,NA,6,1
+"Betty McCollum","Betty McCollum","BettyMcCollum04",FALSE,TRUE,FALSE,"MN",4,"Democrat","Rep","3-Jan-01",1,NA,6,1
+"Ilhan Omar","Ilhan Omar","Ilhan",FALSE,TRUE,FALSE,"MN",5,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ilhan Omar","Ilhan Omar","IlhanMN",FALSE,TRUE,FALSE,"MN",5,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Tom Emmer","Tom Emmer","RepTomEmmer",FALSE,TRUE,FALSE,"MN",6,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Collin Peterson","Collin Peterson","collinpeterson",FALSE,TRUE,FALSE,"MN",7,"Democrat","Rep","3-Jan-91",1,NA,6,1
+"Pete Stauber","Pete Stauber","RepPeteStauber",FALSE,TRUE,FALSE,"MN",8,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Lacy Clay","Lacy Clay","LacyClayMO1",FALSE,TRUE,FALSE,"MO",1,"Democrat","Rep","3-Jan-01",1,NA,5,1
+"Ann Wagner","Ann Wagner","RepAnnWagner",FALSE,TRUE,FALSE,"MO",2,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Blaine Luetkemeyer","Blaine Luetkemeyer","RepBlaine",FALSE,TRUE,FALSE,"MO",3,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Vicky Hartzler","Vicky Hartzler","RepHartzler",FALSE,TRUE,FALSE,"MO",4,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Emanuel Cleaver","Emanuel Cleaver","repcleaver",FALSE,TRUE,FALSE,"MO",5,"Democrat","Rep","3-Jan-05",1,NA,5,1
+"Sam Graves","Sam Graves","RepSamGraves",FALSE,TRUE,FALSE,"MO",6,"Republican","Rep","3-Jan-01",1,NA,5,1
+"Billy Long","Billy Long","USRepLong",FALSE,TRUE,FALSE,"MO",7,"Republican","Rep","3-Jan-11",1,NA,3,1
+"Billy Long","Billy Long","auctnr1",FALSE,TRUE,FALSE,"MO",7,"Republican","Rep","3-Jan-11",1,NA,3,1
+"Jason Smith","Jason Smith","RepJasonSmith",FALSE,TRUE,FALSE,"MO",8,"Republican","Rep","3-Jan-17",1,NA,2,1
+"Jason Smith","Jason Smith","JasonSmithMO",FALSE,TRUE,FALSE,"MO",8,"Republican","Rep","3-Jan-17",1,NA,2,1
+"Gregorio Sablan","Gregorio Sablan","Kilili_Sablan",FALSE,TRUE,FALSE,"MP",0,"Independent","Rep","3-Jan-09",1,NA,5,1
+"Gregorio Sablan","Gregorio Sablan","KililiSablan",FALSE,TRUE,FALSE,"MP",0,"Independent","Rep","3-Jan-09",1,NA,5,1
+"Trent Kelly","Trent Kelly","RepTrentKelly",FALSE,TRUE,FALSE,"MS",1,"Republican","Rep","2-Jun-15",1,NA,6,1
+"Bennie Thompson","Bennie Thompson","BennieGThompson",FALSE,TRUE,FALSE,"MS",2,"Democrat","Rep","13-Apr-93",1,NA,6,1
+"Michael Guest","Michael Guest","RepMichaelGuest",FALSE,TRUE,FALSE,"MS",3,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Steven Palazzo","Steven Palazzo","CongPalazzo",FALSE,TRUE,FALSE,"MS",4,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Greg Gianforte","Greg Gianforte","GregForMontana",FALSE,TRUE,FALSE,"MT",0,"Republican","Rep","21-Jun-17",1,NA,6,1
+"G. K. Butterfield","G. K. Butterfield","GKButterfield",FALSE,TRUE,FALSE,"NC",1,"Democrat","Rep","20-Jul-04",1,NA,6,1
+"George Holding","George Holding","RepHolding",FALSE,TRUE,FALSE,"NC",2,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Greg Murphy","Greg Murphy","RepGregMurphy",FALSE,TRUE,FALSE,"NC",3,"Republican","Rep","10-Sep-19",0,"from 9/10/19",5,1
+"Walter B. Jones Jr.","Walter B. Jones Jr.","repwalterjones",FALSE,TRUE,FALSE,"NC",3,"Republican","Rep","3-Jan-95",0,"Until 2/10/19",NA,0
+"David Price","David Price","RepDavidEPrice",FALSE,TRUE,FALSE,"NC",4,"Democrat","Rep","3-Jan-97",1,NA,3,1
+"Virginia Foxx","Virginia Foxx","virginiafoxx",FALSE,TRUE,FALSE,"NC",5,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Mark Walker","Mark Walker","RepMarkWalker",FALSE,TRUE,FALSE,"NC",6,"Republican","Rep","3-Jan-15",1,NA,6,1
+"David Rouzer","David Rouzer","RepDavidRouzer",FALSE,TRUE,FALSE,"NC",7,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Richard Hudson","Richard Hudson","RepRichHudson",FALSE,TRUE,FALSE,"NC",8,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Dan Bishop","Dan Bishop","jdanbishop",FALSE,TRUE,FALSE,"NC",9,"Republican","Rep","17-Sep-19",0,"from 9/17/19",6,1
+"Dan Bishop","Dan Bishop","RepDanBishop",FALSE,TRUE,FALSE,"NC",9,"Republican","Rep","17-Sep-19",1,NA,6,1
+"Patrick McHenry","Patrick McHenry","PatrickMcHenry",FALSE,TRUE,FALSE,"NC",10,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Mark Meadows","Mark Meadows","MarkMeadows",FALSE,TRUE,FALSE,"NC",11,"Republican","Rep","3-Jan-17",0,"until 3/30/20",5,1
+"Mark Meadows","Mark Meadows","RepMarkMeadows",FALSE,TRUE,FALSE,"NC",11,"Republican","Rep","3-Jan-17",0,"until 3/30/21",5,1
+"Alma Adams","Alma Adams","RepAdams",FALSE,TRUE,FALSE,"NC",12,"Democrat","Rep","4-Nov-14",1,NA,6,1
+"Ted Budd","Ted Budd","RepTedBudd",FALSE,TRUE,FALSE,"NC",13,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Kelly Armstrong","Kelly Armstrong","RepArmstrongND",FALSE,TRUE,FALSE,"ND",0,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Jeff Fortenberry","Jeff Fortenberry","JeffFortenberry",FALSE,TRUE,FALSE,"NE",1,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Don Bacon","Don Bacon","RepDonBacon",FALSE,TRUE,FALSE,"NE",2,"Republican","Rep","3-Jan-17",1,NA,5,1
+"Adrian Smith","Adrian Smith","RepAdrianSmith",FALSE,TRUE,FALSE,"NE",3,"Republican","Rep","3-Jan-07",1,NA,6,1
+"Chris Pappas","Chris Pappas","ChrisPappasNH",FALSE,TRUE,FALSE,"NH",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Chris Pappas","Chris Pappas","RepChrisPappas",FALSE,TRUE,FALSE,"NH",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ann McLane Kuster","Ann McLane Kuster","RepAnnieKuster",FALSE,TRUE,FALSE,"NH",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Donald Norcross","Donald Norcross","DonaldNorcross",FALSE,TRUE,FALSE,"NJ",1,"Democrat","Rep","12-Nov-14",1,NA,6,1
+"Jeff Van Drew","Jeff Van Drew","CongressmanJVD",FALSE,TRUE,FALSE,"NJ",2,"Republican","Rep","3-Jan-19",1,"Changed from Democrat in 2019",6,1
+"Andy Kim","Andy Kim","AndyKimNJ",FALSE,TRUE,FALSE,"NJ",3,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Andy Kim","Andy Kim","RepAndyKimNJ",FALSE,TRUE,FALSE,"NJ",3,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Chris Smith","Chris Smith","RepChrisSmith",FALSE,TRUE,FALSE,"NJ",4,"Republican","Rep","3-Jan-81",1,NA,1,1
+"Josh Gottheimer","Josh Gottheimer","RepJoshG",FALSE,TRUE,FALSE,"NJ",5,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Frank Pallone","Frank Pallone","FrankPallone",FALSE,TRUE,FALSE,"NJ",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Tom Malinowski","Tom Malinowski","Malinowski",FALSE,TRUE,FALSE,"NJ",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Tom Malinowski","Tom Malinowski","RepMalinowski",FALSE,TRUE,FALSE,"NJ",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Albio Sires","Albio Sires","RepSires",FALSE,TRUE,FALSE,"NJ",8,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Bill Pascrell","Bill Pascrell","BillPascrell",FALSE,TRUE,FALSE,"NJ",9,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Donald Payne Jr.","Donald Payne Jr.","RepDonaldPayne",FALSE,TRUE,FALSE,"NJ",10,"Democrat","Rep","15-Nov-12",1,NA,5,1
+"Mikie Sherrill","Mikie Sherrill","RepSherrill",FALSE,TRUE,FALSE,"NJ",11,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Bonnie Watson Coleman","Bonnie Watson Coleman","RepBonnie",FALSE,TRUE,FALSE,"NJ",12,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Deb Haaland","Deb Haaland","Deb4CongressNM",FALSE,TRUE,FALSE,"NM",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Deb Haaland","Deb Haaland","DebHaalandNM",FALSE,TRUE,FALSE,"NM",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Deb Haaland","Deb Haaland","RepDebHaaland",FALSE,TRUE,FALSE,"NM",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Xochitl Torres Small","Xochitl Torres Small","RepTorresSmall",FALSE,TRUE,FALSE,"NM",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ben Ray Luján","Ben Ray Lujan","benraylujan",FALSE,TRUE,FALSE,"NM",3,"Democrat","Rep","3-Jan-19",1,NA,4,1
+"Ben Ray Luján","Ben Ray Lujan","RepBenRayLujan",FALSE,TRUE,FALSE,"NM",3,"Democrat","Rep","3-Jan-19",1,NA,4,1
+"Dina Titus","Dina Titus","dinatitus",FALSE,TRUE,FALSE,"NV",1,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Dina Titus","Dina Titus","RepDinaTitus",FALSE,TRUE,FALSE,"NV",1,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Mark Amodei","Mark Amodei","MarkAmodeiNV2",FALSE,TRUE,FALSE,"NV",2,"Republican","Rep","13-Sep-11",1,NA,6,1
+"Susie Lee","Susie Lee","RepSusieLee",FALSE,TRUE,FALSE,"NV",3,"Democrat","Rep","3-Jan-19",1,NA,5,1
+"Steven Horsford","Steven Horsford","RepHorsford",FALSE,TRUE,FALSE,"NV",4,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Steven Horsford","Steven Horsford","StevenHorsford",FALSE,TRUE,FALSE,"NV",4,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Lee Zeldin","Lee Zeldin","Leezeldin",FALSE,TRUE,FALSE,"NY",1,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Lee Zeldin","Lee Zeldin","RepLeeZeldin",FALSE,TRUE,FALSE,"NY",1,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Peter T. King","Peter T. King","RepPeteKing",FALSE,TRUE,FALSE,"NY",2,"Republican","Rep","3-Jan-93",1,NA,6,1
+"Thomas Suozzi","Thomas Suozzi","RepTomSuozzi",FALSE,TRUE,FALSE,"NY",3,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Kathleen Rice","Kathleen Rice","RepKathleenRice",FALSE,TRUE,FALSE,"NY",4,"Democrat","Rep","3-Jan-15",1,NA,5,1
+"Gregory Meeks","Gregory Meeks","RepGregoryMeeks",FALSE,TRUE,FALSE,"NY",5,"Democrat","Rep","3-Feb-98",1,NA,6,1
+"Grace Meng","Grace Meng","RepGraceMeng",FALSE,TRUE,FALSE,"NY",6,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Grace Meng","Grace Meng","Grace4NY",FALSE,TRUE,FALSE,"NY",6,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Nydia Velázquez","Nydia Velazquez","NydiaVelazquez",FALSE,TRUE,FALSE,"NY",7,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Nydia Velázquez","Nydia Velazquez","NydiaVelazquez",FALSE,TRUE,FALSE,"NY",7,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Hakeem Jeffries","Hakeem Jeffries","RepJeffries",FALSE,TRUE,FALSE,"NY",8,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Yvette Clarke","Yvette Clarke","RepYvetteClarke",FALSE,TRUE,FALSE,"NY",9,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Yvette Clarke","Yvette Clarke","VoteYvette",FALSE,TRUE,FALSE,"NY",9,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Jerrold Nadler","Jerrold Nadler","RepJerryNadler",FALSE,TRUE,FALSE,"NY",10,"Democrat","Rep","3-Nov-92",1,NA,6,1
+"Max Rose","Max Rose","MaxRose4NY",FALSE,TRUE,FALSE,"NY",11,"Democrat","Rep","3-Jan-19",1,NA,4,1
+"Max Rose","Max Rose","RepMaxRose",FALSE,TRUE,FALSE,"NY",11,"Democrat","Rep","3-Jan-19",1,NA,4,1
+"Carolyn Maloney","Carolyn Maloney","CarolynBMaloney",FALSE,TRUE,FALSE,"NY",12,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Carolyn Maloney","Carolyn Maloney","RepMaloney",FALSE,TRUE,FALSE,"NY",12,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Adriano Espaillat","Adriano Espaillat","RepEspaillat",FALSE,TRUE,FALSE,"NY",13,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Alexandria Ocasio-Cortez","Alexandria Ocasio-Cortez","AOC",FALSE,TRUE,FALSE,"NY",14,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Alexandria Ocasio-Cortez","Alexandria Ocasio-Cortez","RepAOC",FALSE,TRUE,FALSE,"NY",14,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"José E. Serrano","Jose E. Serrano","RepJoseSerrano",FALSE,TRUE,FALSE,"NY",15,"Democrat","Rep","21-Mar-90",1,NA,6,1
+"Eliot Engel","Eliot Engel","RepEliotEngel",FALSE,TRUE,FALSE,"NY",16,"Democrat","Rep","3-Jan-89",1,NA,5,1
+"Nita Lowey","Nita Lowey","NitaLowey",FALSE,TRUE,FALSE,"NY",17,"Democrat","Rep","3-Jan-89",1,NA,6,1
+"Sean Patrick Maloney","Sean Patrick Maloney","RepSeanMaloney",FALSE,TRUE,FALSE,"NY",18,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Sean Patrick Maloney","Sean Patrick Maloney","spmaloney",FALSE,TRUE,FALSE,"NY",18,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Antonio Delgado","Antonio Delgado","DelgadoforNY19",FALSE,TRUE,FALSE,"NY",19,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Antonio Delgado","Antonio Delgado","repdelgado",FALSE,TRUE,FALSE,"NY",19,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Paul Tonko","Paul Tonko","RepPaulTonko",FALSE,TRUE,FALSE,"NY",20,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Elise Stefanik","Elise Stefanik","RepStefanik",FALSE,TRUE,FALSE,"NY",21,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Elise Stefanik","Elise Stefanik","EliseStefanik",FALSE,TRUE,FALSE,"NY",21,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Anthony Brindisi","Anthony Brindisi","RepBrindisi",FALSE,TRUE,FALSE,"NY",22,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Tom Reed","Tom Reed","RepTomReed",FALSE,TRUE,FALSE,"NY",23,"Republican","Rep","3-Jan-13",1,NA,6,1
+"John Katko","John Katko","RepJohnKatko",FALSE,TRUE,FALSE,"NY",24,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Joseph Morelle","Joseph Morelle","RepJoeMorelle",FALSE,TRUE,FALSE,"NY",25,"Democrat","Rep","13-Nov-18",1,NA,6,1
+"Brian Higgins","Brian Higgins","RepBrianHiggins",FALSE,TRUE,FALSE,"NY",26,"Democrat","Rep","3-Jan-13",1,NA,5,1
+"Chris Collins","Chris Collins","RepChrisCollins",FALSE,TRUE,FALSE,"NY",27,"Republican","Rep","3-Jan-13",0,"Until 10/1/19",NA,0
+"Chris Jacobs","Chris Jacobs","RepJacobs",FALSE,TRUE,FALSE,"NY",27,"Republican","Rep","23-Jun-20",0,"from 6/23/2020",NA,0
+"Steve Chabot","Steve Chabot","RepSteveChabot",FALSE,TRUE,FALSE,"OH",1,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Brad Wenstrup","Brad Wenstrup","RepBradWenstrup",FALSE,TRUE,FALSE,"OH",2,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Joyce Beatty","Joyce Beatty","RepBeatty",FALSE,TRUE,FALSE,"OH",3,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Jim Jordan","Jim Jordan","Jim_Jordan",FALSE,TRUE,FALSE,"OH",4,"Republican","Rep","3-Jan-07",1,NA,5,1
+"Bob Latta","Bob Latta","boblatta",FALSE,TRUE,FALSE,"OH",5,"Republican","Rep","11-Dec-07",1,NA,6,1
+"Bill Johnson","Bill Johnson","RepBillJohnson",FALSE,TRUE,FALSE,"OH",6,"Republican","Rep","3-Jan-11",1,NA,3,1
+"Bob Gibbs","Bob Gibbs","RepBobGibbs",FALSE,TRUE,FALSE,"OH",7,"Republican","Rep","3-Jan-13",1,NA,4,1
+"Warren Davidson","Warren Davidson","WarrenDavidson",FALSE,TRUE,FALSE,"OH",8,"Republican","Rep","7-Jun-16",1,NA,6,1
+"Marcy Kaptur","Marcy Kaptur","RepMarcyKaptur",FALSE,TRUE,FALSE,"OH",9,"Democrat","Rep","3-Jan-83",1,NA,6,1
+"Mike Turner","Mike Turner","RepMikeTurner",FALSE,TRUE,FALSE,"OH",10,"Republican","Rep","3-Jan-13",1,NA,5,1
+"Marcia Fudge","Marcia Fudge","RepMarciaFudge",FALSE,TRUE,FALSE,"OH",11,"Democrat","Rep","18-Nov-08",1,NA,6,1
+"Troy Balderson","Troy Balderson","RepBalderson",FALSE,TRUE,FALSE,"OH",12,"Republican","Rep","5-Sep-18",1,NA,6,1
+"Tim Ryan","Tim Ryan","RepTimRyan",FALSE,TRUE,TRUE,"OH",13,"Democrat","Rep","3-Jan-03",1,NA,6,1
+"Tim Ryan","Tim Ryan","TimRyan",FALSE,TRUE,TRUE,"OH",13,"Democrat","Rep","3-Jan-03",1,NA,6,1
+"David Joyce","David Joyce","RepDaveJoyce",FALSE,TRUE,FALSE,"OH",14,"Republican","Rep","3-Jan-13",1,NA,4,1
+"Steve Stivers","Steve Stivers","RepSteveStivers",FALSE,TRUE,FALSE,"OH",15,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Anthony Gonzalez","Anthony Gonzalez","RepAGonzalez",FALSE,TRUE,FALSE,"OH",16,"Republican","Rep","3-Jan-19",1,NA,5,1
+"Kevin Hern","Kevin Hern","repkevinhern",FALSE,TRUE,FALSE,"OK",1,"Republican","Rep","13-Nov-18",1,NA,6,1
+"Markwayne Mullin","Markwayne Mullin","RepMullin",FALSE,TRUE,FALSE,"OK",2,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Frank Lucas","Frank Lucas","RepFrankLucas",FALSE,TRUE,FALSE,"OK",3,"Republican","Rep","10-May-94",1,NA,5,1
+"Tom Cole","Tom Cole","TomColeOK04",FALSE,TRUE,FALSE,"OK",4,"Republican","Rep","3-Jan-03",1,NA,4,1
+"Kendra Horn","Kendra Horn","RepKendraHorn",FALSE,TRUE,FALSE,"OK",5,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Suzanne Bonamici","Suzanne Bonamici","RepBonamici",FALSE,TRUE,FALSE,"OR",1,"Democrat","Rep","31-Jan-12",1,NA,6,1
+"Greg Walden","Greg Walden","RepGregWalden",FALSE,TRUE,FALSE,"OR",2,"Republican","Rep","3-Jan-99",1,NA,4,1
+"Earl Blumenauer","Earl Blumenauer","BlumenauerMedia",FALSE,TRUE,FALSE,"OR",3,"Democrat","Rep","21-May-96",1,NA,6,1
+"Earl Blumenauer","Earl Blumenauer","repblumenauer",FALSE,TRUE,FALSE,"OR",3,"Democrat","Rep","21-May-96",1,NA,6,1
+"Peter DeFazio","Peter DeFazio","RepPeterDeFazio",FALSE,TRUE,FALSE,"OR",4,"Democrat","Rep","3-Jan-87",1,NA,6,1
+"Kurt Schrader","Kurt Schrader","RepSchrader",FALSE,TRUE,FALSE,"OR",5,"Democrat","Rep","3-Jan-09",1,NA,6,1
+"Brian Fitzpatrick","Brian Fitzpatrick","RepBrianFitz",FALSE,TRUE,FALSE,"PA",1,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Brendan Boyle","Brendan Boyle","CongBoyle",FALSE,TRUE,FALSE,"PA",2,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Brendan Boyle","Brendan Boyle","RepBrendanBoyle",FALSE,TRUE,FALSE,"PA",2,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Dwight Evans","Dwight Evans","RepDwightEvans",FALSE,TRUE,FALSE,"PA",3,"Democrat","Rep","14-Nov-16",1,NA,6,1
+"Madeleine Dean","Madeleine Dean","RepDean",FALSE,TRUE,FALSE,"PA",4,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Mary Gay Scanlon","Mary Gay Scanlon","marygayscanlon",FALSE,TRUE,FALSE,"PA",5,"Democrat","Rep","13-Nov-18",1,NA,6,1
+"Mary Gay Scanlon","Mary Gay Scanlon","RepMGS",FALSE,TRUE,FALSE,"PA",5,"Democrat","Rep","13-Nov-18",1,NA,6,1
+"Chrissy Houlahan","Chrissy Houlahan","RepHoulahan",FALSE,TRUE,FALSE,"PA",6,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Susan Wild","Susan Wild","RepSusanWild",FALSE,TRUE,FALSE,"PA",7,"Democrat","Rep","27-Nov-18",1,NA,6,1
+"Matt Cartwright","Matt Cartwright","RepCartwright",FALSE,TRUE,FALSE,"PA",8,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Dan Meuser","Dan Meuser","RepMeuser",FALSE,TRUE,FALSE,"PA",9,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Scott Perry","Scott Perry","RepScottPerry",FALSE,TRUE,FALSE,"PA",10,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Lloyd Smucker","Lloyd Smucker","RepSmucker",FALSE,TRUE,FALSE,"PA",11,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Fred Keller","Fred Keller","RepFredKeller",FALSE,TRUE,FALSE,"PA",12,"Republican","Rep","21-May-19",0,"From 5/21/19",6,1
+"Tom Marino","Tom Marino",NA,FALSE,TRUE,FALSE,"PA",12,"Republican","Rep","3-Jan-11",0,"Until 1/23/19",NA,0
+"John Joyce","John Joyce","RepJohnJoyce",FALSE,TRUE,FALSE,"PA",13,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Guy Reschenthaler","Guy Reschenthaler","GReschenthaler",FALSE,TRUE,FALSE,"PA",14,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Glenn Thompson","Glenn Thompson","CongressmanGT",FALSE,TRUE,FALSE,"PA",15,"Republican","Rep","3-Jan-09",1,NA,6,1
+"Mike Kelly","Mike Kelly","MikeKellyPA",FALSE,TRUE,FALSE,"PA",16,"Republican","Rep","3-Jan-11",1,NA,4,1
+"Conor Lamb","Conor Lamb","ConorLambPA",FALSE,TRUE,FALSE,"PA",17,"Democrat","Rep","12-Apr-18",1,NA,6,1
+"Conor Lamb","Conor Lamb","RepConorLamb",FALSE,TRUE,FALSE,"PA",17,"Democrat","Rep","12-Apr-18",1,NA,6,1
+"Michael F. Doyle","Michael F. Doyle","USRepMikeDoyle",FALSE,TRUE,FALSE,"PA",18,"Democrat","Rep","3-Jan-95",1,NA,6,1
+"Jenniffer González","Jenniffer Gonzalez","RepJenniffer",FALSE,TRUE,FALSE,"PR",0,"Republican","Rep","3-Jan-17",1,NA,6,1
+"David Cicilline","David Cicilline","davidcicilline",FALSE,TRUE,FALSE,"RI",1,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"David Cicilline","David Cicilline","RepCicilline",FALSE,TRUE,FALSE,"RI",1,"Democrat","Rep","3-Jan-11",1,NA,6,1
+"James Langevin","James Langevin","JimLangevin",FALSE,TRUE,FALSE,"RI",2,"Democrat","Rep","3-Jan-01",1,NA,6,1
+"Joe Cunningham","Joe Cunningham","RepCunningham",FALSE,TRUE,FALSE,"SC",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Joe Cunningham","Joe Cunningham","joecunninghamsc",FALSE,TRUE,FALSE,"SC",1,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Joe Wilson","Joe Wilson","RepJoeWilson",FALSE,TRUE,FALSE,"SC",2,"Republican","Rep","18-Dec-01",1,NA,6,1
+"Jeff Duncan","Jeff Duncan","RepJeffDuncan",FALSE,TRUE,FALSE,"SC",3,"Republican","Rep","3-Jan-11",1,NA,4,1
+"William Timmons","William Timmons","RepTimmons",FALSE,TRUE,FALSE,"SC",4,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Ralph Norman","Ralph Norman","RepRalphNorman",FALSE,TRUE,FALSE,"SC",5,"Republican","Rep","20-Jun-17",1,NA,6,1
+"Jim Clyburn","Jim Clyburn","WhipClyburn",FALSE,TRUE,FALSE,"SC",6,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"Tom Rice","Tom Rice","RepTomRice",FALSE,TRUE,FALSE,"SC",7,"Republican","Rep","3-Jan-13",1,NA,5,1
+"Dusty Johnson","Dusty Johnson","DustyJohnson",FALSE,TRUE,FALSE,"SD",0,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Dusty Johnson","Dusty Johnson","RepDustyJohnson",FALSE,TRUE,FALSE,"SD",0,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Phil Roe","Phil Roe","DrPhilRoe",FALSE,TRUE,FALSE,"TN",1,"Republican","Rep","3-Jan-09",1,NA,5,1
+"Tim Burchett","Tim Burchett","RepTimBurchett",FALSE,TRUE,FALSE,"TN",2,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Tim Burchett","Tim Burchett","timburchett",FALSE,TRUE,FALSE,"TN",2,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Chuck Fleischmann","Chuck Fleischmann","RepChuck",FALSE,TRUE,FALSE,"TN",3,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Scott DesJarlais","Scott DesJarlais","DesJarlaisTN04",FALSE,TRUE,FALSE,"TN",4,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Jim Cooper","Jim Cooper","jimcoopertn",FALSE,TRUE,FALSE,"TN",5,"Democrat","Rep","3-Jan-03",1,NA,5,1
+"Jim Cooper","Jim Cooper","RepJimCooper",FALSE,TRUE,FALSE,"TN",5,"Democrat","Rep","3-Jan-03",1,NA,5,1
+"John Rose","John Rose","RepJohnRose",FALSE,TRUE,FALSE,"TN",6,"Republican","Rep","3-Jan-19",1,NA,4,1
+"Mark E. Green","Mark E. Green","RepMarkGreen",FALSE,TRUE,FALSE,"TN",7,"Republican","Rep","3-Jan-19",1,NA,6,1
+"David Kustoff","David Kustoff","DavidKustoff",FALSE,TRUE,FALSE,"TN",8,"Republican","Rep","3-Jan-17",1,NA,5,1
+"David Kustoff","David Kustoff","RepDavidKustoff",FALSE,TRUE,FALSE,"TN",8,"Republican","Rep","3-Jan-17",1,NA,5,1
+"Steve Cohen","Steve Cohen","RepCohen",FALSE,TRUE,FALSE,"TN",9,"Democrat","Rep","3-Jan-07",1,NA,3,1
+"Louie Gohmert","Louie Gohmert","replouiegohmert",FALSE,TRUE,FALSE,"TX",1,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Dan Crenshaw","Dan Crenshaw","DanCrenshawTX",FALSE,TRUE,FALSE,"TX",2,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Dan Crenshaw","Dan Crenshaw","RepDanCrenshaw",FALSE,TRUE,FALSE,"TX",2,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Van Taylor","Van Taylor","RepVanTaylor",FALSE,TRUE,FALSE,"TX",3,"Republican","Rep","3-Jan-19",1,NA,6,1
+"John Ratcliffe","John Ratcliffe","RepRatcliffe",FALSE,TRUE,FALSE,"TX",4,"Republican","Rep","3-Jan-15",0,"until 5/22/20",6,1
+"Lance Gooden","Lance Gooden","Lancegooden",FALSE,TRUE,FALSE,"TX",5,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Lance Gooden","Lance Gooden","RepLanceGooden",FALSE,TRUE,FALSE,"TX",5,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Ron Wright","Ron Wright","RepRonWright",FALSE,TRUE,FALSE,"TX",6,"Republican","Rep","3-Jan-19",1,NA,5,1
+"Lizzie Pannill Fletcher","Lizzie Pannill Fletcher","Lizzie4Congress",FALSE,TRUE,FALSE,"TX",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Lizzie Pannill Fletcher","Lizzie Pannill Fletcher","RepFletcher",FALSE,TRUE,FALSE,"TX",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Kevin Brady","Kevin Brady","RepKevinBrady",FALSE,TRUE,FALSE,"TX",8,"Republican","Rep","3-Jan-97",1,NA,6,1
+"Al Green","Al Green","RepAlGreen",FALSE,TRUE,FALSE,"TX",9,"Democrat","Rep","3-Jan-05",1,NA,5,1
+"Michael McCaul","Michael McCaul","RepMcCaul",FALSE,TRUE,FALSE,"TX",10,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Mike Conaway","Mike Conaway","ConawayTX11",FALSE,TRUE,FALSE,"TX",11,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Kay Granger","Kay Granger","RepKayGranger",FALSE,TRUE,FALSE,"TX",12,"Republican","Rep","3-Jan-97",1,NA,6,1
+"Mac Thornberry","Mac Thornberry","MacTXPress",FALSE,TRUE,FALSE,"TX",13,"Republican","Rep","3-Jan-95",1,NA,6,1
+"Randy Weber","Randy Weber","TXRandy",FALSE,TRUE,FALSE,"TX",14,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Randy Weber","Randy Weber","TXRandy14",FALSE,TRUE,FALSE,"TX",14,"Republican","Rep","3-Jan-13",1,NA,6,1
+"Vicente Gonzalez","Vicente Gonzalez","RepGonzalez",FALSE,TRUE,FALSE,"TX",15,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Veronica Escobar","Veronica Escobar","RepEscobar",FALSE,TRUE,FALSE,"TX",16,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Veronica Escobar","Veronica Escobar","vgescobar",FALSE,TRUE,FALSE,"TX",16,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Bill Flores","Bill Flores","RepBillFlores",FALSE,TRUE,FALSE,"TX",17,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Sheila Jackson Lee","Sheila Jackson Lee","JacksonLeeTX18",FALSE,TRUE,FALSE,"TX",18,"Democrat","Rep","3-Jan-95",1,NA,6,1
+"Jodey Arrington","Jodey Arrington","RepArrington",FALSE,TRUE,FALSE,"TX",19,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Joaquín Castro","Joaqui­n Castro","JoaquinCastrotx",FALSE,TRUE,FALSE,"TX",20,"Democrat","Rep","3-Jan-13",1,NA,NA,1
+"Chip Roy","Chip Roy","chiproytx",FALSE,TRUE,FALSE,"TX",21,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Chip Roy","Chip Roy","RepChipRoy",FALSE,TRUE,FALSE,"TX",21,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Pete Olson","Pete Olson","RepPeteOlson",FALSE,TRUE,FALSE,"TX",22,"Republican","Rep","3-Jan-09",1,NA,6,1
+"Will Hurd","Will Hurd","HurdOnTheHill",FALSE,TRUE,FALSE,"TX",23,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Kenny Marchant","Kenny Marchant","RepKenMarchant",FALSE,TRUE,FALSE,"TX",24,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Roger Williams","Roger Williams","RepRWilliams",FALSE,TRUE,FALSE,"TX",25,"Republican","Rep","3-Jan-13",1,NA,1,1
+"Michael C. Burgess","Michael C. Burgess","michaelcburgess",FALSE,TRUE,FALSE,"TX",26,"Republican","Rep","3-Jan-03",1,NA,6,1
+"Michael Cloud","Michael Cloud","RepCloudTX",FALSE,TRUE,FALSE,"TX",27,"Republican","Rep","10-Jul-18",1,NA,6,1
+"Henry Cuellar","Henry Cuellar","RepCuellar",FALSE,TRUE,FALSE,"TX",28,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Sylvia Garcia","Sylvia Garcia","RepSylviaGarcia",FALSE,TRUE,FALSE,"TX",29,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Eddie Bernice Johnson","Eddie Bernice Johnson","RepEBJ",FALSE,TRUE,FALSE,"TX",30,"Democrat","Rep","3-Jan-93",1,NA,6,1
+"John Carter","John Carter","JudgeCarter",FALSE,TRUE,FALSE,"TX",31,"Republican","Rep","3-Jan-03",1,NA,0,1
+"Colin Allred","Colin Allred","CollinAllredTX",FALSE,TRUE,FALSE,"TX",32,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Colin Allred","Colin Allred","RepColinAllred",FALSE,TRUE,FALSE,"TX",32,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Marc Veasey","Marc Veasey","RepVeasey",FALSE,TRUE,FALSE,"TX",33,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Filemon Vela Jr.","Filemon Vela Jr.","RepFilemonVela",FALSE,TRUE,FALSE,"TX",34,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Lloyd Doggett","Lloyd Doggett","RepLloydDoggett",FALSE,TRUE,FALSE,"TX",35,"Democrat","Rep","3-Jan-95",1,NA,6,1
+"Brian Babin","Brian Babin","RepBrianBabin",FALSE,TRUE,FALSE,"TX",36,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Rob Bishop","Rob Bishop","RepRobBishop",FALSE,TRUE,FALSE,"UT",1,"Republican","Rep","3-Jan-03",1,NA,5,1
+"Chris Stewart","Chris Stewart","RepChrisStewart",FALSE,TRUE,FALSE,"UT",2,"Republican","Rep","3-Jan-13",1,NA,5,1
+"John Curtis","John Curtis","RepJohnCurtis",FALSE,TRUE,FALSE,"UT",3,"Republican","Rep","13-Nov-17",1,NA,2,1
+"Ben McAdams","Ben McAdams","Repbenmcadams",FALSE,TRUE,FALSE,"UT",4,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Ben McAdams","Ben McAdams","RepBenMcAdams",FALSE,TRUE,FALSE,"UT",4,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Rob Wittman","Rob Wittman","RobWittman",FALSE,TRUE,FALSE,"VA",1,"Republican","Rep","11-Dec-07",1,NA,6,1
+"Elaine Luria","Elaine Luria","ElaineLuriaVA",FALSE,TRUE,FALSE,"VA",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Elaine Luria","Elaine Luria","RepElaineLuria",FALSE,TRUE,FALSE,"VA",2,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Bobby Scott","Bobby Scott","BobbyScott",FALSE,TRUE,FALSE,"VA",3,"Democrat","Rep","3-Jan-93",1,NA,4,1
+"Donald McEachin","Donald McEachin","RepMcEachin",FALSE,TRUE,FALSE,"VA",4,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Denver Riggleman","Denver Riggleman","RepRiggleman",FALSE,TRUE,FALSE,"VA",5,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Ben Cline","Ben Cline","RepBenCline",FALSE,TRUE,FALSE,"VA",6,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Abigail Spanberger","Abigail Spanberger","RepSpanberger",FALSE,TRUE,FALSE,"VA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Abigail Spanberger","Abigail Spanberger","SpanbergerVA07",FALSE,TRUE,FALSE,"VA",7,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Don Beyer","Don Beyer","RepDonBeyer",FALSE,TRUE,FALSE,"VA",8,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Morgan Griffith","Morgan Griffith","RepMGriffith",FALSE,TRUE,FALSE,"VA",9,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Jennifer Wexton","Jennifer Wexton","JenniferWexton",FALSE,TRUE,FALSE,"VA",10,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Jennifer Wexton","Jennifer Wexton","RepWexton",FALSE,TRUE,FALSE,"VA",10,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Gerry Connolly","Gerry Connolly","GerryConnolly",FALSE,TRUE,FALSE,"VA",11,"Democrat","Rep","3-Jan-09",1,NA,5,1
+"Stacey Plaskett","Stacey Plaskett","StaceyPlaskett",FALSE,TRUE,FALSE,"VI",0,"Democrat","Rep","3-Jan-15",1,NA,6,1
+"Peter Welch","Peter Welch","PeterWelch",FALSE,TRUE,FALSE,"VT",0,"Democrat","Rep","3-Jan-07",1,NA,6,1
+"Suzan DelBene","Suzan DelBene","RepDelBene",FALSE,TRUE,FALSE,"WA",1,"Democrat","Rep","13-Nov-12",1,NA,6,1
+"Rick Larsen","Rick Larsen","RepRickLarsen",FALSE,TRUE,FALSE,"WA",2,"Democrat","Rep","3-Jan-01",1,NA,6,1
+"Jaime Herrera Beutler","Jaime Herrera Beutler","HerreraBeutler",FALSE,TRUE,FALSE,"WA",3,"Republican","Rep","3-Jan-11",1,NA,5,1
+"Dan Newhouse","Dan Newhouse","RepNewhouse",FALSE,TRUE,FALSE,"WA",4,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Cathy McMorris Rodgers","Cathy McMorris Rodgers","cathymcmorris",FALSE,TRUE,FALSE,"WA",5,"Republican","Rep","3-Jan-05",1,NA,6,1
+"Derek Kilmer","Derek Kilmer","RepDerekKilmer",FALSE,TRUE,FALSE,"WA",6,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Pramila Jayapal","Pramila Jayapal","PramilaJayapal",FALSE,TRUE,FALSE,"WA",7,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Pramila Jayapal","Pramila Jayapal","RepJayapal",FALSE,TRUE,FALSE,"WA",7,"Democrat","Rep","3-Jan-17",1,NA,6,1
+"Kim Schrier","Kim Schrier","RepKimSchrier",FALSE,TRUE,FALSE,"WA",8,"Democrat","Rep","3-Jan-19",1,NA,6,1
+"Adam Smith","Adam Smith","RepAdamSmith",FALSE,TRUE,FALSE,"WA",9,"Democrat","Rep","3-Jan-97",1,NA,5,1
+"Denny Heck","Denny Heck","RepDennyHeck",FALSE,TRUE,FALSE,"WA",10,"Democrat","Rep","3-Jan-13",1,NA,5,1
+"Bryan Steil","Bryan Steil","RepBryanSteil",FALSE,TRUE,FALSE,"WI",1,"Republican","Rep","3-Jan-19",1,NA,6,1
+"Mark Pocan","Mark Pocan","MarkPocan",FALSE,TRUE,FALSE,"WI",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Mark Pocan","Mark Pocan","RepMarkPocan",FALSE,TRUE,FALSE,"WI",2,"Democrat","Rep","3-Jan-13",1,NA,6,1
+"Ron Kind","Ron Kind","RepRonKind",FALSE,TRUE,FALSE,"WI",3,"Democrat","Rep","3-Jan-97",1,NA,6,1
+"Gwen Moore","Gwen Moore","RepGwenMoore",FALSE,TRUE,FALSE,"WI",4,"Democrat","Rep","3-Jan-05",1,NA,6,1
+"Jim Sensenbrenner","Jim Sensenbrenner","JimPressOffice",FALSE,TRUE,FALSE,"WI",5,"Republican","Rep","3-Jan-79",1,NA,6,1
+"Glenn Grothman","Glenn Grothman","RepGrothman",FALSE,TRUE,FALSE,"WI",6,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Sean Duffy","Sean Duffy","duffy4wisconsin",FALSE,TRUE,FALSE,"WI",7,"Republican","Rep","3-Jan-11",0,"until 9/23/19",NA,0
+"Sean Duffy","Sean Duffy","RepSeanDuffy",FALSE,TRUE,FALSE,"WI",7,"Republican","Rep","3-Jan-11",0,"until 9/23/19",NA,0
+"Tom Tiffany","Tom Tiffany","RepTiffany",FALSE,TRUE,FALSE,"WI",7,"Republican","Rep","12-May-20",0,"from 5/12/2020",NA,0
+"Mike Gallagher","Mike Gallagher","RepGallagher",FALSE,TRUE,FALSE,"WI",8,"Republican","Rep","3-Jan-17",1,NA,6,1
+"David McKinley","David McKinley","RepMcKinley",FALSE,TRUE,FALSE,"WV",1,"Republican","Rep","3-Jan-11",1,NA,6,1
+"Alex Mooney","Alex Mooney","RepAlexMooney",FALSE,TRUE,FALSE,"WV",2,"Republican","Rep","3-Jan-15",1,NA,6,1
+"Carol Miller","Carol Miller","RepCarolMiller",FALSE,TRUE,FALSE,"WV",3,"Republican","Rep","3-Jan-19",1,NA,2,1
+"Liz Cheney","Liz Cheney","RepLizCheney",FALSE,TRUE,FALSE,"WY",0,"Republican","Rep","3-Jan-17",1,NA,6,1
+"Mike Dunleavy","Mike Dunleavy","GovDunLeavy",TRUE,FALSE,FALSE,"AK",NA,"Republican",NA,"3-Dec-18",1,NA,5,1
+"Kay Ivey","Kay Ivey","GovernorKayIvey",TRUE,FALSE,FALSE,"AL",NA,"Republican",NA,"10-Apr-17",1,NA,6,1
+"Asa Hutchinson","Asa Hutchinson","AsaHutchinson",TRUE,FALSE,FALSE,"AR",NA,"Republican",NA,"13-Jan-15",1,NA,6,1
+"Douglas Ducey","Douglas Ducey","DougDucey",TRUE,FALSE,FALSE,"AZ",NA,"Republican",NA,"5-Jan-15",1,NA,6,1
+"Gavin Newsom","Gavin Newsom","GavinNewsom",TRUE,FALSE,FALSE,"CA",NA,"Democrat",NA,"7-Jan-19",1,NA,6,1
+"Jared Polis","Jared Polis","GovofCO",TRUE,FALSE,FALSE,"CO",NA,"Democrat",NA,"8-Jan-19",1,NA,6,1
+"Edward Lamont","Edward Lamont","GovNedLamont",TRUE,FALSE,FALSE,"CT",NA,"Democrat",NA,"9-Jan-19",1,NA,5,1
+"John Carney","John Carney","JohnCarneyDE",TRUE,FALSE,FALSE,"DE",NA,"Democrat",NA,"17-Jan-17",1,NA,3,1
+"Ronald DeSantis","Ronald DeSantis","GovRonDesantis",TRUE,FALSE,FALSE,"FL",NA,"Republican",NA,"8-Jan-19",1,NA,6,1
+"Brian Kemp","Brian Kemp","GovKemp",TRUE,FALSE,FALSE,"GA",NA,"Republican",NA,"14-Jan-19",1,NA,NA,0
+"Nathan Deal","Nathan Deal","GovernorDeal",TRUE,FALSE,FALSE,"GA",NA,"Republican",NA,"10-Jan-11",1,"Governor until 2019",6,1
+"David Ige","David Ige","GovHawaii",TRUE,FALSE,FALSE,"HI",NA,"Democrat",NA,"1-Dec-14",1,NA,6,1
+"David Ige","David Ige","teamdavidige",TRUE,FALSE,FALSE,"HI",NA,"Democrat",NA,"1-Dec-14",1,NA,6,1
+"Kimberly Reynolds","Kimberly Reynolds","KimReynoldsIA",TRUE,FALSE,FALSE,"IA",NA,"Republican",NA,"24-May-17",1,NA,2,1
+"Brad Little","Brad Little","GovernorLittle",TRUE,FALSE,FALSE,"ID",NA,"Republican",NA,"7-Jan-19",1,NA,6,1
+"J.B. Pritzker","J.B. Pritzker","GovPritzker",TRUE,FALSE,FALSE,"IL",NA,"Democrat",NA,"14-Jan-19",1,NA,6,1
+"Eric Holcomb","Eric Holcomb","GovHolcomb",TRUE,FALSE,FALSE,"IN",NA,"Republican",NA,"9-Jan-17",1,NA,6,1
+"Laura Kelly","Laura Kelly","GovLauraKelly",TRUE,FALSE,FALSE,"KS",NA,"Democrat",NA,"14-Jan-19",1,NA,6,1
+"Matthew Bevin","Matthew Bevin","MattBevin",TRUE,FALSE,FALSE,"KY",NA,"Republican",NA,"8-Dec-15",1,NA,5,1
+"John Edwards","John Edwards","LouisianaGov",TRUE,FALSE,FALSE,"LA",NA,"Democrat",NA,"8-Jan-15",1,"Better known as John Bel Edwards",3,1
+"Charles Baker","Charles Baker","CharlieBakerMA",TRUE,FALSE,FALSE,"MA",NA,"Republican",NA,"8-Jan-15",1,"Better known as Charlie Baker",0,1
+"Charles Baker","Charles Baker","MAGovArchive",TRUE,FALSE,FALSE,"MA",NA,"Republican",NA,"8-Jan-15",1,"Better known as Charlie Baker",0,1
+"Lawrence Hogan","Lawrence Hogan","GovLarryHogan",TRUE,FALSE,FALSE,"MD",NA,"Republican",NA,"21-Jan-15",1,NA,6,1
+"Lawrence Hogan","Lawrence Hogan","Larryhogan",TRUE,FALSE,FALSE,"MD",NA,"Republican",NA,"21-Jan-15",1,NA,6,1
+"Janet Mills","Janet Mills","GovJanetMills",TRUE,FALSE,FALSE,"ME",NA,"Democrat",NA,"2-Jan-19",1,NA,6,1
+"Gretchen Whitmer","Gretchen Whitmer","gretchenwhitmer",TRUE,FALSE,FALSE,"MI",NA,"Democrat",NA,"1-Jan-19",1,NA,6,1
+"Gretchen Whitmer","Gretchen Whitmer","GovWhitmer",TRUE,FALSE,FALSE,"MI",NA,"Democrat",NA,"1-Jan-19",1,NA,6,1
+"Tim Walz","Tim Walz","GovTimWalz",TRUE,FALSE,FALSE,"MN",NA,"Democrat",NA,"7-Jan-19",1,NA,5,1
+"Michael Parson","Michael Parson","GovParsonMO",TRUE,FALSE,FALSE,"MO",NA,"Republican",NA,"3-Jan-03",1,NA,6,1
+"Dewey Bryant","Dewey Bryant","PhilBryantMS",TRUE,FALSE,FALSE,"MS",NA,"Republican",NA,"10-Jan-12",1,"Better known as Phil Bryant",0,1
+"Tate Reeves","Tate Reeves","tatereeves",TRUE,FALSE,FALSE,"MS",NA,"Republican",NA,"14-Jan-20",1,NA,NA,0
+"Stephen Bullock","Stephen Bullock","GovernorBullock",TRUE,FALSE,TRUE,"MT",NA,"Democrat",NA,"7-Jan-13",1,NA,5,1
+"Steve Bullock","Steve Bullock","GovernorBullock",TRUE,FALSE,TRUE,"MT",NA,"Democrat",NA,"7-Jan-13",1,NA,6,1
+"Andrew Yang","Andrew Yang","AndrewYang",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Beto O Rourke","Beto O Rourke","BetoORourke",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Bill de Blasio","Bill de Blasio","BilldeBlasio",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Donald Trump","Donald Trump","realDonaldTrump",FALSE,FALSE,TRUE,"National",NA,"Republican",NA,NA,1,NA,6,1
+"Howard Schultz","Howard Schultz","HowardSchultz",FALSE,FALSE,TRUE,"National",NA,"Independent",NA,NA,1,NA,6,1
+"Joe Biden","Joe Biden","JoeBiden",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"John Delaney","John Delaney","JohnDelaney",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,"MD-6 in 2019",5,1
+"John Hickenlooper","John Hickenlooper","Hickenlooper",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"John Kasich","John Kasich","JohnKasich",FALSE,FALSE,TRUE,"National",NA,"Republican",NA,NA,1,NA,6,1
+"Julian Castro","Julian Castro","JulianCastro",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,"Twins with Joaqin castro, but he was never house rep",6,1
+"Julian Castro","Julian Castro","JulianCastro",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Marianne Williamson","Marianne Williamson","Marwilliamson",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Michael Bloomberg","Michael Bloomberg","MikeBloomberg",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,5,1
+"Mike Gravel","Mike Gravel",NA,FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Pete Buttigieg","Pete Buttigieg","PeteButtigieg",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Tom Steyer","Tom Steyer","TomSteyer",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Wayne Messam","Wayne Messam","WayneMessam",FALSE,FALSE,TRUE,"National",NA,"Democrat",NA,NA,1,NA,6,1
+"Roy Cooper","Roy Cooper","NC_Governor",TRUE,FALSE,FALSE,"NC",NA,"Democrat",NA,"1-Jan-17",1,NA,6,1
+"Douglas Burgum","Douglas Burgum","DougBurgum",TRUE,FALSE,FALSE,"ND",NA,"Republican",NA,"15-Dec-16",1,NA,6,1
+"John Ricketts","John Ricketts","PeteRicketts",TRUE,FALSE,FALSE,"NE",NA,"Republican",NA,"8-Jan-15",1,"Better known as Pete Ricketts",0,1
+"Christopher Sununu","Christopher Sununu","ChrisSununu",TRUE,FALSE,FALSE,"NH",NA,"Republican",NA,"5-Jan-17",1,NA,4,1
+"Philip Murphy","Philip Murphy","GovMurphy",TRUE,FALSE,FALSE,"NJ",NA,"Democrat",NA,"16-Jan-18",1,NA,4,1
+"Michelle Lujan Grisham","Michelle Lujan Grisham","GovMLG",TRUE,FALSE,FALSE,"NM",NA,"Democrat",NA,"1-Jan-19",1,NA,5,1
+"Steve Sisolak","Steve Sisolak","SteveSisolak",TRUE,FALSE,FALSE,"NV",NA,"Democrat",NA,"7-Jan-19",1,NA,6,1
+"Andrew Cuomo","Andrew Cuomo","andrewcuomo",TRUE,FALSE,FALSE,"NY",NA,"Democrat",NA,"1-Jan-11",1,NA,6,1
+"Andrew Cuomo","Andrew Cuomo","NYGovCuomo",TRUE,FALSE,FALSE,"NY",NA,"Democrat",NA,"1-Jan-11",1,NA,6,1
+"Michael DeWine","Michael DeWine","MikeDeWine",TRUE,FALSE,FALSE,"OH",NA,"Republican",NA,"14-Jan-19",1,NA,6,1
+"Kevin Stitt","Kevin Stitt","GovStitt",TRUE,FALSE,FALSE,"OK",NA,"Republican",NA,"14-Jan-19",1,NA,6,1
+"Katherine Brown","Katherine Brown","OregonGovBrown",TRUE,FALSE,FALSE,"OR",NA,"Democrat",NA,"18-Feb-15",1,"Better known at Kate Brown",0,1
+"Thomas Wolf","Thomas Wolf","TomWolfPA",TRUE,FALSE,FALSE,"PA",NA,"Democrat",NA,"20-Jan-15",1,NA,0,1
+"Gina Raimondo","Gina Raimondo","GovRaimondo",TRUE,FALSE,FALSE,"RI",NA,"Democrat",NA,"6-Jan-15",1,NA,6,1
+"Gina Raimondo","Gina Raimondo","GinaRaimondo",TRUE,FALSE,FALSE,"RI",NA,"Democrat",NA,"6-Jan-15",1,NA,6,1
+"Henry McMaster","Henry McMaster","henrymcmaster",TRUE,FALSE,FALSE,"SC",NA,"Republican",NA,"24-Jan-17",1,NA,6,1
+"Kristi Noem","Kristi Noem","GovKristiNoem",TRUE,FALSE,FALSE,"SD",NA,"Republican",NA,"5-Jan-19",1,NA,6,1
+"Bill Lee","Bill Lee","GovBillLee",TRUE,FALSE,FALSE,"TN",NA,"Republican",NA,"19-Jan-19",1,NA,6,1
+"Gregory Abbott","Gregory Abbott","GregAbbott_TX",TRUE,FALSE,FALSE,"TX",NA,"Republican",NA,"20-Jan-15",1,"Better known as Greg Abbott",0,1
+"Gregory Abbott","Gregory Abbott","GovAbbott",TRUE,FALSE,FALSE,"TX",NA,"Republican",NA,"20-Jan-15",1,"Better known as Greg Abbott",0,1
+"Gary Herbert","Gary Herbert","GovHerbert",TRUE,FALSE,FALSE,"UT",NA,"Republican",NA,"11-Aug-09",1,NA,6,1
+"Ralph Northam","Ralph Northam","GovernorVA",TRUE,FALSE,FALSE,"VA",NA,"Democrat",NA,"13-Jan-18",1,NA,6,1
+"Philip Scott","Philip Scott","GovPhilScott",TRUE,FALSE,FALSE,"VT",NA,"Republican",NA,"5-Jan-17",1,NA,4,1
+"Jay Inslee","Jay Inslee","GovInslee",TRUE,FALSE,TRUE,"WA",NA,"Democrat",NA,"16-Jan-13",1,NA,6,1
+"Tony Evers","Tony Evers","GovEvers",TRUE,FALSE,FALSE,"WI",NA,"Democrat",NA,"7-Jan-19",1,NA,6,1
+"Tony Evers","Tony Evers","Tony4WI",TRUE,FALSE,FALSE,"WI",NA,"Democrat",NA,"7-Jan-19",1,NA,6,1
+"James Justice","James Justice","WVGovernor",TRUE,FALSE,FALSE,"WV",NA,"Republican",NA,"16-Jan-17",1,"Better known as Jim Justice",3,1
+"Mark Gordon","Mark Gordon","GovernorGordon",TRUE,FALSE,FALSE,"WY",NA,"Republican",NA,"7-Jan-19",1,NA,5,1
