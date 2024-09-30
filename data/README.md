@@ -26,3 +26,9 @@ Update this document to store detailed documentation (data dictionary) on the da
 2. _From whom_ or _where_ did you get the data?
 3. What does each column mean? What is the _data format_ of each column? Loading a column with a wrong assumption about its data format can cost your project!
 4. What are the other relevant information, restrictions, and limitations about the dataset? How was the data collected? What kinds of biases does it contain? What should not be done with the dataset (e.g., identification of individuals)?
+
+# Complementary data
+1. `bias_score_ron_2018.csv` : this file contains 19014 domains and their bias_score from Ronald 2018 paper.
+2. `domain_category.csv` : this file contains 8878 domains and their category labeled by Allison Wan.
+3. `domain_classification_local_vs_national.csv` : this is a compiled dataset of domains and their classification.
+4. `qry_info.csv` : contains information of house representitives used in the analysis. 
