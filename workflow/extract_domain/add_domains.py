@@ -17,8 +17,6 @@ no_fetch_extract = tldextract.TLDExtract(suffix_list_urls=None)
 
 # Extract domains from urls
 def extract_domain(url):
-    # try:
-    #     return '.'.join(part for part in no_fetch_extract(url)[1:] if part)
     
     # Check if the URL is None or empty before proceeding
     if not url:
