@@ -17,15 +17,18 @@ The table schema is as follows:
 | state           | State abbreviation                               |
 | district        | Congressional district number                    |
 | party           | Political party affiliation, can be "Democrat", "Republican", "Independent" |
-| relevance_score | Relevance score of the candidate, range from 0 to 6 |
+| relevance_score | The number of relevant results in a random sample of 6 URLs from the qry's search results |
 
 There are a few things to note.
 The list only contains the house of representatives candidates.
 If a politician has multiple Twitter handles, they will appear in the list multiple times. Be sure to remove duplicates before analysis.
 There are 425 unique politicians in the list.
 
-We also exclude the following politicians from the list: "Chris Smith", "Mario Díaz-Balart", "Carol Miller", "Roger Williams", "Joaquín Castro", "Jesús Chuy García", "Jason Smith", "Daniel Webster", "Paul Mitchell", "John Curtis", "John Carter", "John Lewis".
-Searching these names often lead to irrelevant results, e.g., due to name sharing with another famous person.
+While cleaning the data, we find that the search results of some politicians contain irrelevant results, often due to name sharing with other famous people.
+To quantitatively measure the relevance of the search results, we count the number of relevant results in a random sample of 6 URLs from each politician's search results.
+This score is the `relevance_score` column in the table.
+We exclude the politicians with a relevance score less than 3 from our study.
+Specifically, we exclude the following politicians: "Chris Smith", "Mario Díaz-Balart", "Carol Miller", "Roger Williams", "Joaquín Castro", "Jesús Chuy García", "Jason Smith", "Daniel Webster", "Paul Mitchell", "John Curtis", "John Carter", "John Lewis".
 See our paper for more details.
 
 ## Domain Classification
