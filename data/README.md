@@ -1,34 +1,43 @@
-This is the folder for storing raw & derived datasets. 
-However, do not commit large datasets to the git repository. 
+# Introduction
 
-You can add patterns such as `*.csv` and `*.tsv` to `.gitignore` to ignore certain types of data files.
+This folder contains the datasets used in the project. Only small data files are committed to the repository. Larger files are stored on a separate data repository.
 
-Follow one of the following practices:
+# Files
 
-1. If the raw data is small, consider committing it to the repository. You can still store derived datasets locally and ignore them with `.gitignore`.
-1. Large and sensitive files should stay on the remote servers.
-1. If the dataset has a fixed location (URL), integrate the script to download the dataset into the workflow. Git-ignore all downloaded and derived datasets. 
+## House representatives information
 
-Finally, whenever possible, make sure that the raw data files are **read-only**.
-You can use the structure suggested here: https://github.com/drivendata/cookiecutter-data-science#the-resulting-directory-structure 
+The file `qry_info.csv` contains information of house representatives used in the analysis.
+The table schema is as follows:
 
-```
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-```
+| Column Name     | Description                                      |
+|-----------------|--------------------------------------------------|
+| qry             | Name of the congressional candidate              |
+| qry_clean       | Cleaned name of the congressional candidate      |
+| Twitter         | Twitter handle of the congressional candidate    |
+| state           | State abbreviation                               |
+| district        | Congressional district number                    |
+| party           | Political party affiliation, can be "Democrat", "Republican", "Independent" |
+| relevance_score | The number of relevant results in a random sample of 6 URLs from the qry's search results |
 
-Update this document to store detailed documentation (data dictionary) on the datasets. Document at least the following (ideally, create a [datasheet](https://arxiv.org/abs/1803.09010)):
+There are a few things to note.
+The list only contains the house of representatives candidates.
+If a politician has multiple Twitter handles, they will appear in the list multiple times. Be sure to remove duplicates before analysis.
+There are 425 unique politicians in the list.
 
-1. _When_ was the data obtained?
-2. _From whom_ or _where_ did you get the data?
-3. What does each column mean? What is the _data format_ of each column? Loading a column with a wrong assumption about its data format can cost your project!
-4. What are the other relevant information, restrictions, and limitations about the dataset? How was the data collected? What kinds of biases does it contain? What should not be done with the dataset (e.g., identification of individuals)?
+While cleaning the data, we find that the search results of some politicians contain irrelevant results, often due to name sharing with other famous people.
+To quantitatively measure the relevance of the search results, we count the number of relevant results in a random sample of 6 URLs from each politician's search results.
+This score is the `relevance_score` column in the table.
+We exclude the politicians with a relevance score less than 3 from our study.
+Specifically, we exclude the following politicians: "Chris Smith", "Mario Díaz-Balart", "Carol Miller", "Roger Williams", "Joaquín Castro", "Jesús Chuy García", "Jason Smith", "Daniel Webster", "Paul Mitchell", "John Curtis", "John Carter", "John Lewis".
+See our paper for more details.
 
-# Complementary data
-1. `bias_score_ron_2018.csv` : this file contains 19014 domains and their bias_score from Ronald 2018 paper.
-2. `domain_category.csv` : this file contains 8878 domains and their category labeled by Allison Wan.
-3. `domain_classification_local_vs_national.csv` : this is a compiled dataset of domains and their classification.
-4. `qry_info.csv` : contains information of house representitives used in the analysis. 
+## Domain Classification
+
+To analyze the search results of Google, we focus on the domains and classify them into different categories.
+Here are the files containing the domain classifications:
+
+| File Name                                    | Number of unique domains | Description                                                      |
+|----------------------------------------------|--------------------------|----------------------------------------|
+| `bias_score_ron_2018.csv`                    | 19,014 | Political bias score from [Robertson et al. (2018)](https://doi.org/10.1145/3274417). |
+| `domain_category.csv`                        | 8,878 | Category of domains labeled by the authors. See the paper for more details. |
+| `domain_classification_local_vs_national.csv`| 16,489 | Compiled list of domains and their local vs national classification. See the paper for more details. |
