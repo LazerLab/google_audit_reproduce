@@ -2,7 +2,7 @@ import os
 
 DATA_ROOT = "/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/"
 
-RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "intermedidate_files","parquet_with_domain")
+RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "intermedidate_files","parquet_house")
 RAW_PARQUET_FILE = os.path.join(RAW_PARQUET_PATH, "{date}.parquet")
 
 OUTPUT_ROOT = os.path.join(DATA_ROOT, "intermedidate_files","handcode")
