@@ -16,3 +16,5 @@ Please run them in the given order.
 1. Run `extract_domain` to get data with domains.
 2. Run `filter_house` to get data for only house members.
 3. Run `hancode_policontrol_pre` to generate samples for hand coding.
+4. Run `drop_error_results` to remove knowledge and related_search results, which have lots of errors and not are related to our reserach questions.
+   
