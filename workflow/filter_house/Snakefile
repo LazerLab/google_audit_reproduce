@@ -22,20 +22,12 @@ for r in dir_list:
     DATES.append(r)
 
 #DATES = ['20201006']
-    
+
 rule all:
-    input:
-        expand(RAW_PARQUET_FILE, date=DATES),
-        expand(UPDATE_PARQUET_FILE_HOUSE, date=DATES)
-        
-        
+    input: expand(UPDATE_PARQUET_FILE_HOUSE, date=DATES)
+
+
 rule split_office:
-    input:
-        RAW_PARQUET_FILE
-    output:
-        qry_info = PATH_TO_QRY_INFO,
-        csv = UPDATE_PARQUET_FILE_HOUSE
-    shell:
-        """
-        python3 seperate_office.py {input} {output.qry_info} {output.csv}
-        """
+    input: RAW_PARQUET_FILE, PATH_TO_QRY_INFO
+    output: UPDATE_PARQUET_FILE_HOUSE
+    shell: "python3 seperate_office.py {input} {output}"
