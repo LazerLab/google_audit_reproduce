@@ -1,0 +1,40 @@
+import os
+
+DATA_ROOT = "/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/"
+
+RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "raw_data")
+RAW_PARQUET_FILE = os.path.join(RAW_PARQUET_PATH, "results-{date}.parquet")
+
+OUTPUT_ROOT = os.path.join(DATA_ROOT, "intermedidate_files","parquet_with_domain")
+DOMAIN_PARQUET_FILE = os.path.join(OUTPUT_ROOT, "{date}.parquet")
+
+
+# Infer dates
+dir_list = os.listdir(RAW_PARQUET_PATH)
+
+DATES = []
+for r in dir_list:
+    if r=='.ipynb_checkpoints':
+        continue
+    r = r.replace('results-', '')
+    r = r.replace('.parquet', '')
+    DATES.append(r)
+
+# DATES = ['20201006']
+    
+rule all:
+    input:
+        expand(RAW_PARQUET_FILE, date=DATES),
+        expand(DOMAIN_PARQUET_FILE, date=DATES)
+        
+rule add_domains:
+    input:
+        RAW_PARQUET_FILE
+    output:
+        DOMAIN_PARQUET_FILE
+    shell:
+        """
+        python3 add_domains.py {input} {output}
+        """
+
+      
