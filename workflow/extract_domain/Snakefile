@@ -21,20 +21,11 @@ for r in dir_list:
     DATES.append(r)
 
 # DATES = ['20201006']
-    
-rule all:
-    input:
-        expand(RAW_PARQUET_FILE, date=DATES),
-        expand(DOMAIN_PARQUET_FILE, date=DATES)
-        
-rule add_domains:
-    input:
-        RAW_PARQUET_FILE
-    output:
-        DOMAIN_PARQUET_FILE
-    shell:
-        """
-        python3 add_domains.py {input} {output}
-        """
 
-      
+rule all:
+    input: expand(DOMAIN_PARQUET_FILE, date=DATES)
+
+rule add_domains:
+    input: RAW_PARQUET_FILE
+    output: DOMAIN_PARQUET_FILE
+    shell: "python3 add_domains.py {input} {output}"
