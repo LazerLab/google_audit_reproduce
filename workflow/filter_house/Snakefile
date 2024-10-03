@@ -32,4 +32,4 @@ rule all:
 rule split_office:
     input: RAW_PARQUET_FILE, PATH_TO_QRY_INFO
     output: UPDATE_PARQUET_FILE_HOUSE
-    shell: "python3 seperate_office.py {input} {input} {output}"
+    shell: "python3 seperate_office.py {input} {output}"
