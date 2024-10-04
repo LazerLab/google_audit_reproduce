@@ -27,7 +27,7 @@ for r in dir_list:
     r = r.replace('.parquet', '')
     DATES.append(r)
 
-#DATES = ['20201006']
+#DATES = ['20201006', '20201010']
     
 rule all:
     input:
@@ -35,7 +35,7 @@ rule all:
         
 rule filtering:
     input:
-        RAW_PARQUET_FILE.format(date="{date}")
+        RAW_PARQUET_FILE
     output:
         HANDCODE_PARQUET_FILE
     shell:
@@ -45,7 +45,7 @@ rule filtering:
 
 rule combine_summary:
     input:
-        HANDCODE_PARQUET_FILE
+       expand(HANDCODE_PARQUET_FILE, date=DATES)
     output:
         HANDCODE_PATH
     shell:

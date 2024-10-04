@@ -30,14 +30,15 @@ def combine_summaries(input_dir, output_csv, groupby):
     
     all_dfs = []
 
-    for filename in os.listdir(input_dir): #input_dir: 
-        if filename.endswith(".parquet") and filename != '.ipynb_checkpoints':
-            filepath = os.path.join(input_dir, filename)
-            df = pd.read_parquet(filepath)
-            
-            print(filepath)
+    for filename in input_dir: #os.listdir(input_dir): #
+       # if filename.endswith(".parquet") and filename != '.ipynb_checkpoints':
+            #filepath = os.path.join(input_dir, filename)
+            #df = pd.read_parquet(filepath)
+        df = pd.read_parquet(filename)
+        
+        print(filename)
 
-            all_dfs.append(df)
+        all_dfs.append(df)
 
     combined_df = pd.concat(all_dfs, ignore_index=True)
 
@@ -48,8 +49,8 @@ def combine_summaries(input_dir, output_csv, groupby):
 
 if __name__ == "__main__":
     
-    #input_dir = sys.argv[1:-1]
-    input_dir = sys.argv[1]
+    input_dir = sys.argv[1:-1]
+    #input_dir = sys.argv[1]
     output_dir = sys.argv[-1]
 
     groupby = ['url','qry', 'domain','title', 'text']
