@@ -45,7 +45,7 @@ rule filtering:
 
 rule combine_summary:
     input:
-       expand(HANDCODE_PARQUET_FILE, date=DATES)
+        expand(HANDCODE_PARQUET_FILE, date=DATES)
     output:
         HANDCODE_PATH
     shell:
