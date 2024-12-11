@@ -13,8 +13,10 @@ snakemake 1>snakemake_output.log 2>snakemake_error.log
 The sub-workflows have the following dependency relationships.
 Please run them in the given order.
 
-1. Run `extract_domain` to get data with domains.
-2. Run `filter_house` to get data for only house members.
-3. Run `hancode_policontrol_pre` to generate samples for hand coding.
-4. Run `drop_error_results` to remove knowledge and related_search results, which have lots of errors and not are related to our reserach questions.
+* Run `na_analysis` to analyze for errors.   
+* Run `drop_na_add_domain` to add domains, and keep only type of resul, which have lots of errors and not are related to our reserach questions. Also keep only the qries we are using for the analysis, which are US house members.
+* Run `hancode_policontrol_pre` to generate samples for hand coding.  
+* Run `generate_analysis_summary` to generate summaries for analysis.  
+* Run `result_similarity` to analyze similarity of results. This can be run with `python3 file.py`.
+* Run `r_plots` to generate plots using r language. This code does not work with snakemake. 
    
