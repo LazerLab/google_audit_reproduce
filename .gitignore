@@ -1,3 +1,21 @@
+#intermediate data folder
+data/hand_code/
+data/house_analysis/
+data/old_data_cmpt_rank/
+data/plots/
+
+
+
+#certain notebooks
+notebooks/cumulative_percentage.ipynb
+notebooks/clean_complementary_data.ipynb
+notebooks/house_gov_check.ipynb
+notebooks/member_similarity.ipynb
+notebooks/test_function.ipynb
+notebooks/validation_relevance_score.ipynb
+.ipynb_checkpoints
+
+
 # .snakemake
 .snakemake
 

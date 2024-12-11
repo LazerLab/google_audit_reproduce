@@ -1,0 +1,65 @@
+import os
+
+DATA_ROOT = "/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/intermedidate_files"
+
+RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "house_parquet_no_na")
+RAW_PARQUET_FILE = os.path.join(RAW_PARQUET_PATH, "{date}.parquet")
+
+OUTPUT_ROOT = os.path.join(DATA_ROOT, "summary_by_day")
+UPDATE_PARQUET_FILE = os.path.join(OUTPUT_ROOT, "{date}.parquet")
+
+
+SUMMARY_ROOT = os.path.join(DATA_ROOT, "merged_summary")
+SUM_PATH1 = os.path.join(SUMMARY_ROOT, "domain_counts.csv")
+SUM_PATH2 = os.path.join(SUMMARY_ROOT, "qry_domain.csv")
+SUM_PATH3 = os.path.join(SUMMARY_ROOT, "domain_rank_qry_loc.csv")
+SUM_PATH4 = os.path.join(SUMMARY_ROOT, "day_qry_loc.csv")
+SUM_PATH5 = os.path.join(SUMMARY_ROOT, "day_qry_domain_loc.csv")
+SUM_PATH6 = os.path.join(SUMMARY_ROOT, "day_qry_domain_rank.csv")
+SUM_PATH7 = os.path.join(SUMMARY_ROOT, "day_type_rank.csv")
+
+
+
+
+# Infer dates
+dir_list = os.listdir(RAW_PARQUET_PATH)
+
+DATES = []
+for r in dir_list:
+    if r=='.ipynb_checkpoints':
+        continue
+    r = r.replace('results-', '')
+    r = r.replace('.parquet', '')
+    DATES.append(r)
+
+#DATES = ['20201006']
+    
+rule all:
+    input:
+        expand(UPDATE_PARQUET_FILE, date=DATES)
+        
+        
+rule pre_processing:
+    input:
+        RAW_PARQUET_FILE
+    output:
+        UPDATE_PARQUET_FILE
+    shell:
+        """
+        python3 pre_processing.py {input} {output}
+        """
+        
+rule summarize_results:
+    #input:
+        #expand(UPDATE_PARQUET_FILE, date=DATES)
+    params:
+        OUTPUT_ROOT
+    output:
+        SUM_PATH1, SUM_PATH2, SUM_PATH3, SUM_PATH4, SUM_PATH5, SUM_PATH6, SUM_PATH7
+
+    shell:
+        """
+        python3 combine_summaries.py {input} {output}
+        """
+
+        
