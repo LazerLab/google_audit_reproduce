@@ -34,8 +34,8 @@ def calculate_rbo(sample1, sample2):
     T = sample2.dropna()["url"].to_list() # Remove None
 
     # Sort sample by rank
-    sample1.sort_values('cmpt_rank', inplace=True)
-    sample2.sort_values('cmpt_rank', inplace=True)
+    sample1.sort_values('serp_rank', inplace=True)
+    sample2.sort_values('serp_rank', inplace=True)
 
     # cap the longer list ot the length of shorter list
     l = min(len(S), len(T))
@@ -67,8 +67,8 @@ def get_results(qry_loc_checkhome, path):
 
     # subset the data to politicians with home districts
     qry_loc_checkhome_sub = qry_loc_checkhome[qry_loc_checkhome['is_home_district']==True]
-    #qry_list = qry_loc_checkhome_sub["qry"].drop_duplicates().to_list() #get qry list
-    qry_list = ['Don Young','Dusty Johnson','Eleanor Holmes Norton','Greg Gianforte','Kelly Armstrong','Lisa Blunt Rochester','Liz Cheney','Peter Welch']
+    qry_list = qry_loc_checkhome_sub["qry"].drop_duplicates().to_list() #get qry list
+    #qry_list = ['Don Young','Dusty Johnson','Eleanor Holmes Norton','Greg Gianforte','Kelly Armstrong','Lisa Blunt Rochester','Liz Cheney','Peter Welch']
     
     for qry in qry_list:
         print(qry)
@@ -103,7 +103,7 @@ if __name__ == "__main__":
     qry_loc_checkhome = pd.read_csv('../../data/house_analysis/qry_loc_checkhome.csv')
 
     result_df = get_results(qry_loc_checkhome, RAW_PARQUET_PATH)
-    result_df.to_csv('../../data/house_analysis/home_random_dist_rbo_similarity_clean_locid_just_missing.csv', index=False)
+    result_df.to_csv('../../data/house_analysis/home_random_dist_rbo_similarity_clean_locid.csv', index=False)
 
 
 
