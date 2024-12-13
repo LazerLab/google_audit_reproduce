@@ -19,8 +19,9 @@ def combine_summaries(input_dir, output_csvs, groupbys):
     """
     
     all_dfs = []
-
+    #for filename in input_dir:
     for filename in os.listdir(input_dir):
+    
         if filename.endswith(".parquet") and filename != '.ipynb_checkpoints':
             filepath = os.path.join(input_dir, filename)
             df = pd.read_parquet(filepath)
@@ -36,10 +37,11 @@ def combine_summaries(input_dir, output_csvs, groupbys):
 
 if __name__ == "__main__":
     
+    #input_dir = sys.argv[1:-1]
     input_dir = sys.argv[1]
     output_dir = sys.argv[-1]
 
-    groupbys = ['crawl_id', "is_na_url", "type"]
+    groupbys = ['crawl_id', "is_na_url", "type", "serp_rank"]
     combine_summaries(input_dir, output_dir, groupbys)
 
 

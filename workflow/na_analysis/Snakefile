@@ -1,16 +1,18 @@
 import os
 
-DATA_ROOT = "/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/intermedidate_files"
+DATA_ROOT = "/net/lazer/lab-lazer/shared_projects/google_audit_reproduce"
 
-RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "parquet_house")
-RAW_PARQUET_FILE = os.path.join(RAW_PARQUET_PATH, "{date}.parquet")
+RAW_PARQUET_PATH = os.path.join(DATA_ROOT, "raw_data")
+RAW_PARQUET_FILE = os.path.join(RAW_PARQUET_PATH, "results-{date}.parquet")
 
-OUTPUT_ROOT = os.path.join(DATA_ROOT, "na_summary")
+OUTPUT_ROOT = os.path.join(DATA_ROOT, "intermedidate_files","na_summary")
 UPDATE_PARQUET_FILE = os.path.join(OUTPUT_ROOT, "{date}.parquet")
 
 
-SUMMARY_ROOT = os.path.join(DATA_ROOT, "merged_summary")
+SUMMARY_ROOT = os.path.join(DATA_ROOT, "intermedidate_files", "merged_summary")
 SUM_PATH1 = os.path.join(SUMMARY_ROOT, "na_summary.csv")
+
+POLI_INFO = "../../data/qry_info_house_filter.csv"
 
 # Infer dates
 dir_list = os.listdir(RAW_PARQUET_PATH)
@@ -32,17 +34,19 @@ rule all:
         
 rule pre_processing:
     input:
-        RAW_PARQUET_FILE
+        RAW_PARQUET_FILE, POLI_INFO
     output:
         UPDATE_PARQUET_FILE
     shell:
         """
         python3 pre_processing.py {input} {output}
         """
+
+FILE_LIST = os.listdir(OUTPUT_ROOT)
         
 rule summarize_results:
     input:
-        expand(UPDATE_PARQUET_FILE, date=DATES)
+        FILE_LIST
     output:
         SUM_PATH1
 
