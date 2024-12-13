@@ -2,7 +2,11 @@
 
 The notebooks are independent analysis of the data. However, certain files are generated throughout the process. The following is the suggested running order of notebooks, in order to make sure files are generated propoerly before need.
 
-Note that graphs and datafiles that are not gerenated in the pipeline are not listed here. 
+Gnereally, notebooks in `data_generate/` generates data, and notebooks in `analysis_stats` do the analysis. 
+
+Note that graphs are not listed here. 
+
+1. `na_analysis.ipynb` - input: `"/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/intermedidate_files/merged_summary/na_summary.csv"`/ - output: `"../data/house_analysis/type_na_summary.csv"`.
 
 1. `sanity_check.ipynb` - input: `/google_audit_reproduce/intermedidate_files/merged_summary/day_qry_loc.csv`.
    
@@ -21,6 +25,8 @@ Note that graphs and datafiles that are not gerenated in the pipeline are not li
 8. `data_for_r_plots.ipynb` - input: `"../data/house_analysis/domain_rank_ishome_category_counts.csv"`. output: `"../data/house_analysis/domain_isnews_islocal_ispolicontrol.csv"`.
 
 9. `domain_qry_rank_data.ipynb` - input: `"/net/lazer/lab-lazer/shared_projects/google_audit_reproduce/intermedidate_files/merged_summary/day_qry_domain_rank.csv"`. output: `"../data/house_analysis/party_domain_rank_class_cat_isnews_islocal_ispolicontrol.csv"`.
+
+10. `category_analysis.ipynb` - input: `"../data/house_analysis/party_domain_rank_class_cat_isnews_islocal_ispolicontrol.csv"`.
 
 10. `coverage_rate_check.ipynb` - input: `'../data/house_analysis/house_domain_counts_unique.csv'`, `"../data/house_analysis/domain_rank_ishome_category_counts.csv"`.
 
