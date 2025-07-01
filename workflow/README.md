@@ -4,7 +4,7 @@ This folder stores the scripts for data processing and analysis.
 
 # How to run each sub-workflow
 
-You can using the following command to run the sub workflows
+You can using the following command to run the sub workflows that are written in snakemake pipepile. 
 
 ```bash
 snakemake 1>snakemake_output.log 2>snakemake_error.log

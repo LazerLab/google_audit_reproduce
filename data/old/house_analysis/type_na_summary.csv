@@ -1,0 +1,21 @@
+type,Num Parsed Urls,Num Errors,Total Num,Error Rate of Type,Average Rank
+ad,205773,1345030,1550803,0.9,13.4
+available_on,0,850,850,1.0,1.0
+discover_more,0,16191,16191,1.0,26.8
+general,242469287,0,242469287,0.0,11.1
+images,186216369,262076,186478445,0.0,18.3
+img_cards,0,382778,382778,1.0,18.4
+knowledge,29524488,64227141,93751629,0.7,25.5
+local_results,4812766,1052627,5865393,0.2,12.4
+map_results,0,418,418,1.0,1.0
+news_quotes,78762106,0,78762106,0.0,11.1
+people_also_ask,0,17834682,17834682,1.0,7.2
+products,0,12,12,1.0,6.6
+searches_related,0,30377117,30377117,1.0,23.2
+shopping_ads,169,0,169,0.0,3.6
+top_image_carousel,0,9,9,1.0,1.0
+top_stories,29839466,0,29839466,0.0,8.8
+twitter_cards,96231736,0,96231736,0.0,7.1
+twitter_result,2307246,0,2307246,0.0,5.6
+unknown,0,241737,241737,1.0,14.4
+videos,16411158,0,16411158,0.0,15.0
